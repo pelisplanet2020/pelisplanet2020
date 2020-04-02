@@ -5,35 +5,34 @@
 <channels_info>
 <title>[COLOR blue]plugin.video.Pelis.planet2020[/COLOR]</title>
 <genre>ONLINE</genre>
-<thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</thumbnail>
+<thumbnail>https://drive.google.com/open?id=1q7hntZirFf0VqFpKC-AOaQekkdogoQii</thumbnail>
 <fanart>https://i.ibb.co/2NH1rDq/PELIS-PLANET.jpg</fanart>
-<date>23/02/2019</date>
+<date>Abril del 2020</date>
 <credits>Gracias a plugin.video.Pelis.planet2020</credits>
 </channels_info>
 <channels>
 
  
-<channel>
-<info>Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva.</info>
-<name>[COLOR blue]                                            plugin.video.Pelis.planet2020 version 0.0.1[/COLOR]</name>
-<thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</thumbnail>
-<fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</fanart>
-<link>http://ignoreme</link>
-<externallink>http://pastebin.com</externallink>
-</channel>
+    <channel>
+        <info>[COLOR blue]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine y series.[/COLOR]</info>
+        <name>[COLOR gold]Pelis.planet2020[/COLOR] [COLOR gold]update:Abril de 2020[/COLOR]</name>
+        <description>[COLOR blue]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine y series.[/COLOR]</description>
+        <thumbnail>https://drive.google.com/open?id=1q7hntZirFf0VqFpKC-AOaQekkdogoQii</thumbnail>
+        <fanart>https://drive.google.com/open?id=1-3uDZcnxPNgzus9vftj1YtINUIbT3Wcr</fanart>
+        <externallink>http://pastebin.com</externallink>
+    </channel>
 
  
  
 <channels>
- 
-<channel>
-<name>[COLOR #418DE4][/COLOR]Pelis.planet2020[COLOR black]                                            Update:[/COLOR][COLOR red]  [/COLOR]-Abril-2020[COLOR dark blue][COLOR  black][/COLOR]</name>
-<description>Dark-side pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva.</description>
-<thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</thumbnail>
-<fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</fanart>
-<link>http://ignoreme</link>
-<externallink>http://pastebin.com</externallink>
-</channel>
+    <channel>
+        <info></info>
+        <name>[COLOR blue]Pelis.planet2020[/COLOR] [COLOR gold]update:Abril de 2020[/COLOR]</name>
+        <description>[COLORPelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine y series.</description>
+        <thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</thumbnail>
+        <fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</fanart>
+        <externallink>http://pastebin.com</externallink>
+    </channel>
 </channels>
 
 
@@ -43,8 +42,8 @@
 <channel>
 <name>[COLOR #418DE4]Películas[/COLOR]</name>
 <description>En este espacio podras disfrutar de peliculas.</description>
-<thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_logo.png?v=3</thumbnail>
-<fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_logo.png?v=3</fanart>
+<thumbnail>https://drive.google.com/open?id=1a3cqiSrXDejfs8FFaulf9Slx02If9QUD</thumbnail>
+<fanart>https://drive.google.com/open?id=1a3cqiSrXDejfs8FFaulf9Slx02If9QUD</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Secciones.xml</externallink>
 </channel>
