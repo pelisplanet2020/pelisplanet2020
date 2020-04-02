@@ -1,16 +1,150 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channel>
-    <name>[COLOR red]Películas de Acción[/COLOR]</name>
+    <name>[COLOR red]Películas de Cine en Familia[/COLOR]</name>
     <thumbnail></thumbnail>
     <fanart></fanart>
     <items>
       
        <item>
-        <title></title>
+        <title>Gru minnions 1</title>
+        <fanart>https://drive.google.com/open?id=1JmUH6fecLJB1c86f33yqOYE8j_vqQPpK</fanart>
+        <thumbnail>https://drive.google.com/open?id=1JmUH6fecLJB1c86f33yqOYE8j_vqQPpK</thumbnail>
+        <urlsolve>http://80.211.107.82/movies2/Gru (Mi Villano Favorito )[dvdrip][spanish][www.lokotorrents.com]/Gru.mi.villano.favorito.DVDrip.Spanish.[www.lokotorrents.com].avi</urlsolve>
+       </item>
+        
+        <item>
+        <title>Coco Español</title>
+        <fanart>https://drive.google.com/open?id=1yQysyWNm4LFE4_hC1iIFLvrVroInkPMz</fanart>
+        <thumbnail>https://drive.google.com/open?id=1yQysyWNm4LFE4_hC1iIFLvrVroInkPMz</thumbnail>
+        <urlsolve>http://fanta.56k.es/peliculas/Coco-2018-Spanish-Fanta.mkv</urlsolve>
+       </item>
+        
+        <item>
+        <title>Bambi</title>
+        <fanart>https://vignette.wikia.nocookie.net/disney/images/d/dc/BambiMovie.png/revision/latest/top-crop/width/360/height/450?cb=20111213192013&path-prefix=es</fanart>
+        <thumbnail>https://vignette.wikia.nocookie.net/disney/images/d/dc/BambiMovie.png/revision/latest/top-crop/width/360/height/450?cb=20111213192013&path-prefix=es</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/Bambi.mkv</urlsolve>
+       </item>
+       
+        <item>
+        <title>Libro de la selva</title>
+        <fanart>https://drive.google.com/open?id=1bPAWhTFiLgHNEzr0nDp26s0xO6HMNaw9</fanart>
+        <thumbnail>https://drive.google.com/open?id=1bPAWhTFiLgHNEzr0nDp26s0xO6HMNaw9</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/Libro%20de%20la%20Selva.mkv</urlsolve>
+       </item>
+        
+       <item>
+        <title>Hermano oso 1</title>
+        <fanart>https://drive.google.com/open?id=1KsJ8yl06UJYKGZODNTGN-xFN4ubCZrdM</fanart>
+        <thumbnail>https://drive.google.com/open?id=1KsJ8yl06UJYKGZODNTGN-xFN4ubCZrdM</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/Hermano%20OSO%20.mkv</urlsolve>
+       </item>
+       
+       <item>
+        <title>Spider-man 1</title>
+        <fanart>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
+        <thumbnail>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
+        <urlsolve>https://drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
+       </item>
+       
+       <item>
+        <title>Spider-man 2</title>
+        <fanart>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</fanart>
+        <thumbnail>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</thumbnail>
+        <urlsolve>https://drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
+       </item>
+       
+       <item>
+        <title>Spider-man 3</title>
         <fanart></fanart>
         <thumbnail></thumbnail>
         <urlsolve></urlsolve>
+       </item>
+       
+       <item>
+        <title>Pele nace una leyenda</title>
+        <fanart>https://drive.google.com/open?id=1NKYTo_LXzLM4EUlJBvx8e6CU-bqP2O7_</fanart>
+        <thumbnail>https://drive.google.com/open?id=1NKYTo_LXzLM4EUlJBvx8e6CU-bqP2O7_</thumbnail>
+        <urlsolve>https://archive.org/embed/pelem1080pwww.descargasmix.com</urlsolve>
+       </item>
+       
+       <item>
+        <title>Ant man y la avispa</title>
+        <fanart>https://drive.google.com/open?id=1knpmt1gUKPuNj5JTPLAcUxDOpMLkohFY</fanart>
+        <thumbnail>https://drive.google.com/open?id=1knpmt1gUKPuNj5JTPLAcUxDOpMLkohFY</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/Ant%20Man%202.mkv</urlsolve>
+       </item>
+       
+       <item>
+        <title>Guardianes de la galaxia vol.1</title>
+        <fanart>https://drive.google.com/open?id=1Fi6npTgIMGIq15varkrbs0UiDI46ZdCN</fanart>
+        <thumbnail>https://drive.google.com/open?id=1Fi6npTgIMGIq15varkrbs0UiDI46ZdCN</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/Guardianes%20de%20la%20galaxia.mkv</urlsolve>
+       </item>
+        
+        <item>
+        <title>Guardianes de la galaxia vol.2</title>
+        <fanart>https://drive.google.com/open?id=1b7HXFus9Jvb5P4ovb4IiB1SnxLD4BCLT</fanart>
+        <thumbnail>https://drive.google.com/open?id=1b7HXFus9Jvb5P4ovb4IiB1SnxLD4BCLT</thumbnail>
+        <urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
+       </item>
+       
+       <item>
+        <title>Iron Man 3</title>
+        <fanart>https://drive.google.com/open?id=113Tj8_AGzwZ-z9Dnl4g_jq6JnJPn1YS1</fanart>
+        <thumbnail>https://drive.google.com/open?id=113Tj8_AGzwZ-z9Dnl4g_jq6JnJPn1YS1</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/Iron%20Man%203.mkv</urlsolve>
+       </item>
+       
+       <item>
+        <title>Harry Potter 1</title>
+        <fanart>https://drive.google.com/open?id=1bTYnHzibKAOe_qHY7MoDlJeXeJYoq9oc</fanart>
+        <thumbnail>https://drive.google.com/open?id=1bTYnHzibKAOe_qHY7MoDlJeXeJYoq9oc</thumbnail>
+        <urlsolve></urlsolve>
+       </item>
+       
+       <item>
+        <title>Harry Potter 2</title>
+        <fanart>https://drive.google.com/open?id=1bTYnHzibKAOe_qHY7MoDlJeXeJYoq9oc</fanart>
+        <thumbnail>https://drive.google.com/open?id=1bTYnHzibKAOe_qHY7MoDlJeXeJYoq9oc</thumbnail>
+        <urlsolve>http://80.211.107.82/movies2/Harry.Potter.y.la.Camara.Secreta.%5bDVD-Rip%5d%5bAC3%5d%5bSpanish%5d%5bwww.zonatorrent.com%5d.avi/</urlsolve>
+       </item>
+       
+       <item>
+        <title>Harry Potter 3</title>
+        <fanart>https://drive.google.com/open?id=1bTYnHzibKAOe_qHY7MoDlJeXeJYoq9oc</fanart>
+        <thumbnail>https://drive.google.com/open?id=1bTYnHzibKAOe_qHY7MoDlJeXeJYoq9oc</thumbnail>
+        <urlsolve></urlsolve>
+       </item>
+       
+       <item>
+        <title>El hobbit Un viaje inesperado</title>
+        <fanart>https://drive.google.com/open?id=1aJoC13rPJxHrfEsrwoLd026ZPviSZvQQ</fanart>
+        <thumbnail>https://drive.google.com/open?id=1aJoC13rPJxHrfEsrwoLd026ZPviSZvQQ</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
+       </item>
+       
+       <item>
+        <title>El hobbit La desolasión de smaug</title>
+        <fanart>https://drive.google.com/open?id=1aJoC13rPJxHrfEsrwoLd026ZPviSZvQQ</fanart>
+        <thumbnail>https://drive.google.com/open?id=1aJoC13rPJxHrfEsrwoLd026ZPviSZvQQ</thumbnail>
+        <urlsolve></urlsolve>
+       </item>
+       
+       <item>
+        <title>El hobbit La batalla de los 5 ejercitos</title>
+        <fanart>https://drive.google.com/open?id=1aJoC13rPJxHrfEsrwoLd026ZPviSZvQQ</fanart>
+        <thumbnail>https://drive.google.com/open?id=1aJoC13rPJxHrfEsrwoLd026ZPviSZvQQ</thumbnail>
+        <urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
+       </item>
+    </items>
+    
+    <item>
+        <title>Los Increibles 1</title>
+        <fanart>https://drive.google.com/open?id=1SNSyGtt2Yxl3tVqgivMlKXJx0GwqJkFk</fanart>
+        <thumbnail>https://drive.google.com/open?id=1SNSyGtt2Yxl3tVqgivMlKXJx0GwqJkFk</thumbnail>
+        <urlsolve>http://80.211.107.82/movies3/Los%20Increibles.DVDRip.Spanish.(www.lokotorrents.com)/Los%20Increibles.DVDRip.Spanish.(www.lokotorrents.com).divx</urlsolve>
        </item>
        
        <item>
@@ -19,92 +153,9 @@
         <thumbnail></thumbnail>
         <urlsolve></urlsolve>
        </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
-        <title></title>
-        <fanart></fanart>
-        <thumbnail></thumbnail>
-        <urlsolve></urlsolve>
-       </item>
-       
-       <item>
+    </items>
+
+<item>
         <title></title>
         <fanart></fanart>
         <thumbnail></thumbnail>
