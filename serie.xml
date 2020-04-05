@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-    <info>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva[/COLOR]</info>
+    <info>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series.[/COLOR]</info>
     <channels_info>
         <title>[COLOR blue]plugin.video.Pelis.planet2020[/COLOR]</title>
         <genre>ONLINE</genre>
@@ -15,11 +15,11 @@
 
 <channels>
    <channel>
-    <info>[COLOR red]Series Acción[/COLOR]</info>
-    <name>[COLOR #418DE4]Acción[/COLOR]</name>
-    <description>Aquí podras disfrutar del mejor cine de acción</description>
-    <thumbnail>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</thumbnail>
-    <fanart>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</fanart>
+    <info>[COLOR red]Serie de El Mentalista[/COLOR]</info>
+    <name>[COLOR green]El Mentalista[/COLOR]</name>
+    <description>Aquí podras disfrutar las mejores series</description>
+    <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+    <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
     <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/mentali.xml</externallink>
    </channel>
 </channels>
@@ -27,35 +27,35 @@
 
 <channels>
    <channel>
-    <info>[COLOR red]Sección de Películas Cine en familia[/COLOR]</info>
-    <name>[COLOR #418DE4]Cine en Familia[/COLOR]</name>
-    <description>Aquí podras disfrutar del mejor cine en familia</description>
-    <thumbnail>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</thumbnail>
-    <fanart>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</fanart>
-    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/C.familia.xml</externallink>
+    <info>[COLOR red]Serie del Grimm[/COLOR]</info>
+    <name>[COLOR #418DE4]Grimm[/COLOR]</name>
+    <description></description>
+    <thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+    <fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/grim.xml</externallink>
    </channel>
 </channels>
 
 
 <channels>
    <channel>
-    <info>[COLOR red]Sección de Películas de Comedia[/COLOR]</info>
-    <name>[COLOR #418DE4]Comedia[/COLOR]</name>
+    <info>[COLOR blue]Serie Falling Skies[/COLOR]</info>
+    <name>[COLOR blue]Falling Skies[/COLOR]</name>
     <description>Aquí podras disfrutar del mejor cine de Comedia</description>
-    <thumbnail>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</thumbnail>
-    <fanart>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</fanart>
-    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/comedia.xml</externallink>
+    <thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+    <fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/skies.xml</externallink>
    </channel>
 </channels>
 
 
 <channels>
    <channel>
-    <info>[COLOR red]Sección de Películas de Terror[/COLOR]</info>
-    <name>[COLOR #418DE4]Terror[/COLOR]</name>
+    <info>[COLOR red]Serie Aquí no hay quien viva[/COLOR]</info>
+    <name>[COLOR red]Aquí no hay quien viva[/COLOR]</name>
     <description>Aquí podras disfrutar del mejor cine de Comedia</description>
-    <thumbnail>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</thumbnail>
-    <fanart>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</fanart>
-    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Terror.xml</externallink>
+    <thumbnail>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</thumbnail>
+    <fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/aqui.xml</externallink>
    </channel>
 </channels>
