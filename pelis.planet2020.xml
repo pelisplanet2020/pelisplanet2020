@@ -38,6 +38,19 @@
 <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Secciones.xml</externallink>
 </channel>
 </channels>
+ 
+ <channels>
+ 
+<channel>
+<name>[COLOR #418DE4]Películas[/COLOR]</name>
+ <info>[COLOR blue]En este espacio podras disfrutar de Películas.[/COLOR]</info>
+<description>[COLOR blue]En este espacio podras disfrutar de peliculas.[/COLOR]</description>
+<thumbnail>http://imgfz.com/i/6UWLHkD.png</thumbnail>
+<fanart>http://imgfz.com/i/6UWLHkD.pngD</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/serie.xml</externallink>
+</channel>
+</channels>
 
 
 <channels>
