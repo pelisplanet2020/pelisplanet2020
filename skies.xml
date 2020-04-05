@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
 <channel>
     <name>[COLOR blue]Falling Skies 1ª Temporada[/COLOR]</name>
     <thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
@@ -77,7 +78,9 @@
        </item>
 	</items>
 </channel>
+</channels>
 
+<channels>
 <channel>   
     <name>[COLOR blue]Falling Skies 2ª Temporada[/COLOR]</name>
     <thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
@@ -149,7 +152,9 @@
        </item>
     </items>
 </channel>
+</channels>
 
+<channels>
 <channel>
 	<name>[COLOR blue]Falling Skies 3ª Temporada[/COLOR]</name>
 	<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
@@ -211,3 +216,4 @@
 		</item>
 	</items>
 </channel>
+</channels>
