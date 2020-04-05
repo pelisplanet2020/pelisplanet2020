@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+    <info>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva[/COLOR]</info>
+    <channels_info>
+        <title>[COLOR blue]plugin.video.Pelis.planet2020[/COLOR]</title>
+        <genre>ONLINE</genre>
+        <thumbnail>https://i.ibb.co/2NH1rDq/PELIS-PLANET.jpg</thumbnail>
+        <fanart>https://i.ibb.co/2NH1rDq/PELIS-PLANET.jpg</fanart>
+        <date>Abril de 2020</date>
+        <credits>Gracias a plugin.video.Pelis.planet2020 por darnos el mejor contenido.</credits>
+    </channels_info>
+</channels>
+
+
+<channels>
+   <channel>
+    <info>[COLOR red]Series Acción[/COLOR]</info>
+    <name>[COLOR #418DE4]Acción[/COLOR]</name>
+    <description>Aquí podras disfrutar del mejor cine de acción</description>
+    <thumbnail>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</thumbnail>
+    <fanart>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/mentali.xml</externallink>
+   </channel>
+</channels>
+
+
+<channels>
+   <channel>
+    <info>[COLOR red]Sección de Películas Cine en familia[/COLOR]</info>
+    <name>[COLOR #418DE4]Cine en Familia[/COLOR]</name>
+    <description>Aquí podras disfrutar del mejor cine en familia</description>
+    <thumbnail>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</thumbnail>
+    <fanart>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/C.familia.xml</externallink>
+   </channel>
+</channels>
+
+
+<channels>
+   <channel>
+    <info>[COLOR red]Sección de Películas de Comedia[/COLOR]</info>
+    <name>[COLOR #418DE4]Comedia[/COLOR]</name>
+    <description>Aquí podras disfrutar del mejor cine de Comedia</description>
+    <thumbnail>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</thumbnail>
+    <fanart>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/comedia.xml</externallink>
+   </channel>
+</channels>
+
+
+<channels>
+   <channel>
+    <info>[COLOR red]Sección de Películas de Terror[/COLOR]</info>
+    <name>[COLOR #418DE4]Terror[/COLOR]</name>
+    <description>Aquí podras disfrutar del mejor cine de Comedia</description>
+    <thumbnail>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</thumbnail>
+    <fanart>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Terror.xml</externallink>
+   </channel>
+</channels>
