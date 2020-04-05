@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<channels>
 <channel>
     <name>[COLOR red]Grimm 1 Temporada[/COLOR]</name>
     <thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
@@ -161,3 +161,140 @@
        </item>
     </items>
 </channel>
+</channels>
+
+<channels>
+<channel>
+	<name>[COLOR green]El Grimm 2ª Temporada[/COLOR]</name>
+	<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+	<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+	<items>
+		<item>
+			<title>Grimm  2x01</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x01.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x02</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x02.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x03</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x03.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x04</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x04.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x05</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x05.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x06</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x06.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x07</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x07.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x08</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x08.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm  2x09</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x09.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x10</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x10.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x11</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x11.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x12</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x12.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x13</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x13.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x14</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x14.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x15</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x15.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x16</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x16.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x17</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x17.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x18</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x18.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x19</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x19.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x20</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x20.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Grimm 2x21</title>
+			<fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/Grimm/02x21.mkv</urlsolve>
+		</item>
+	</items>
+</channel>
+</channels>
