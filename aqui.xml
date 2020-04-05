@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-<channel>
-    <name>[COLOR red]Aquí no hay quien viva 1ª Temporada[/COLOR]</name>
-    <thumbnail>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</thumbnail>
-    <fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
+	<channel>
+    	<name>[COLOR red]Aquí no hay quien viva 1ª Temporada[/COLOR]</name>
+    	<thumbnail>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</thumbnail>
+    	<fanart>https://www.formulatv.com/images/series/posters/000/2/1_m1.jpg</fanart>
     <items>
        <item>
         <title>Aquí no hay quien viva 1x01</title>
@@ -219,3 +219,4 @@
 		</item>
 	</items>
 </channel>
+</channels>
