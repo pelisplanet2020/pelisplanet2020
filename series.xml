@@ -15,10 +15,9 @@
    <channel>
     <info></info>
     <name>[COLOR red]El Mentalista[/COLOR]</name>
-    <description>Aquí podras disfrutar del mejor cine de acción</description>
     <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
     <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/mentali.xml</externallink>
    </channel>
 </channels>
 
@@ -27,10 +26,9 @@
    <channel>
     <info></info>
     <name>[COLOR red]Falling Skies[/COLOR]</name>
-    <description></description>
     <thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
     <fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/skies.xml</externallink>
    </channel>
 </channels>
 
@@ -39,9 +37,9 @@
    <channel>
     <info></info>
     <name>[COLOR red]Grimm[/COLOR]</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <externallink></externallink>
+    <thumbnail>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</thumbnail>
+    <fanart>https://pics.filmaffinity.com/Grimm_Serie_de_TV-485374119-large.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/grim.xml</externallink>
    </channel>
 </channels>
 
@@ -52,9 +50,21 @@
     <name>[COLOR red]Aquí no hay quien viva[/COLOR]</name>
     <thumbnail>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</thumbnail>
     <fanart>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/aqui.xml</externallink>
+   </channel>
+</channels>
+
+
+<channels>
+   <channel>
+    <info></info>
+    <name></name>
+    <thumbnail>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</thumbnail>
+    <fanart>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</fanart>
     <externallink></externallink>
    </channel>
 </channels>
+
 
 <channels>
    <channel>
@@ -76,15 +86,6 @@
    </channel>
 </channels>
 
-<channels>
-   <channel>
-    <info></info>
-    <name></name>
-    <thumbnail>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</thumbnail>
-    <fanart>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</fanart>
-    <externallink></externallink>
-   </channel>
-</channels>
 
 <channels>
    <channel>
@@ -95,6 +96,7 @@
     <externallink></externallink>
    </channel>
 </channels>
+
 
 <channels>
    <channel>
@@ -106,6 +108,7 @@
     <externallink></externallink>
    </channel>
 </channels>
+
 
 <channels>
    <channel>
