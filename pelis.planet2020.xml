@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channels>
-<info>Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva.</info>
+<info>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine y series.[/COLOR]</info>
 <channels_info>
 <title>[COLOR blue]plugin.video.Pelis.planet2020[/COLOR]</title>
 <genre>ONLINE</genre>
@@ -30,9 +30,10 @@
  
 <channel>
 <name>[COLOR #418DE4]Películas[/COLOR]</name>
-<description>En este espacio podras disfrutar de peliculas.</description>
-<thumbnail>https://drive.google.com/open?id=1a3cqiSrXDejfs8FFaulf9Slx02If9QUD</thumbnail>
-<fanart>https://drive.google.com/open?id=1a3cqiSrXDejfs8FFaulf9Slx02If9QUD</fanart>
+ <info>[COLOR blue]En este espacio podras disfrutar de Películas.[/COLOR]</info>
+<description>[COLOR blue]En este espacio podras disfrutar de peliculas.[/COLOR]</description>
+<thumbnail>http://imgfz.com/i/6UWLHkD.png</thumbnail>
+<fanart>http://imgfz.com/i/6UWLHkD.pngD</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Secciones.xml</externallink>
 </channel>
@@ -43,10 +44,11 @@
  
 <channel>
 <name>[COLOR #418DE4]Series Español[/COLOR]</name>
+ <info>[COLOR blue]En este espacio podras disfrutar de Series.[/COLOR]</info>
 <description>En este espacio podras disfrutar de series.</description>
-<thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_logo.png?v=4</thumbnail>
-<fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_logo.png?v=4</fanart>
+<thumbnail>http://imgfz.com/i/zoDFIiJ.png</thumbnail>
+<fanart>http://imgfz.com/i/zoDFIiJ.png</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/series.xml</externallink>
 </channel>
 </channels>
