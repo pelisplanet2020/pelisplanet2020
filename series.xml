@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-    <info>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine y  y las mejores series[/COLOR]</info>
+    <info>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine, las mejores series y la mejor programación televiviva[/COLOR]</info>
     <channels_info>
-        <title>[COLOR blue]Series en Español[/COLOR]</title>
+        <title>[COLOR blue]plugin.video.Pelis.planet2020[/COLOR]</title>
         <genre>ONLINE</genre>
-        <thumbnail>http://imgfz.com/i/ZRzXbjE.png</thumbnail>
-        <fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/03/14/15841914561512.jpg</fanart>
+        <thumbnail>https://i.ibb.co/2NH1rDq/PELIS-PLANET.jpg</thumbnail>
+        <fanart>https://i.ibb.co/2NH1rDq/PELIS-PLANET.jpg</fanart>
+        <date>Abril de 2020</date>
+        <credits>Gracias a plugin.video.Pelis.planet2020 por darnos el mejor contenido.</credits>
     </channels_info>
 </channels>
 
