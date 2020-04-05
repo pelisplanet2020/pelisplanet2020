@@ -75,7 +75,16 @@
         <thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/FallinSkays/01x10.mkv</urlsolve>
        </item>
-	
+	</items>
+</channel>
+
+<channel>   
+    <name>[COLOR blue]Falling Skies 2ª Temporada[/COLOR]</name>
+    <thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+    <fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+       
+	<items> 
+            
        <item>
         <title>Falling Skies 2x01 y 02</title>
         <fanart></fanart>
@@ -139,4 +148,66 @@
         <urlsolve>http://fina.dyndns.tv/Series/FallinSkays/02x10.mkv</urlsolve>
        </item>
     </items>
+</channel>
+
+<channel>
+	<name>[COLOR blue]Falling Skies 3ª Temporada[/COLOR]</name>
+	<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+	<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+	<items>
+		<item>
+			<title>Falling Skies 3x01 y 02</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x01-02.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x03</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x03.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x04</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x04.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x05</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x05.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x06</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x06x.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x07</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x07.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x08</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x08.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x09</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x09.mkv</urlsolve>
+		</item>
+		<item>
+			<title>Falling Skies 3x10</title>
+			<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</fanart>
+			<thumbnail>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/05/223881-acerca-3a-temporada-falling-skies.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/FallinSkays/03x10.mkv</urlsolve>
+		</item>
+	</items>
 </channel>
