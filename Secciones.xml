@@ -20,7 +20,7 @@
     <description>Aquí podras disfrutar del mejor cine de acción</description>
     <thumbnail>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</thumbnail>
     <fanart>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Accion.xml</externallink>
    </channel>
 </channels>
 
@@ -32,7 +32,7 @@
     <description>Aquí podras disfrutar del mejor cine en familia</description>
     <thumbnail>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</thumbnail>
     <fanart>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/C.familia.xml</externallink>
    </channel>
 </channels>
 
@@ -44,7 +44,7 @@
     <description>Aquí podras disfrutar del mejor cine de Comedia</description>
     <thumbnail>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</thumbnail>
     <fanart>https://drive.google.com/open?id=16RlKNFxqr37mI7iQh8pj5MWEsB5nkWbQ</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/comedia.xml</externallink>
    </channel>
 </channels>
 
@@ -56,6 +56,6 @@
     <description>Aquí podras disfrutar del mejor cine de Comedia</description>
     <thumbnail>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</thumbnail>
     <fanart>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Terror.xml</externallink>
    </channel>
 </channels>
