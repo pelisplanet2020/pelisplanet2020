@@ -1,170 +1,320 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
 <channel>
-    <name>[COLOR green]El Mentalista 1 Temporada[/COLOR]</name>
+    <name>[COLOR green]El Mentalista 1ª Temporada[/COLOR]</name>
     <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
     <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
     <items>
       
        <item>
         <title>El Mentalista 1x01</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x01%20-%20amaiaa.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x02</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x02%20-%20Pelo%20rojo%20y%20cinta%20plateada.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x03</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x03%20-%20Marea%20roja.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x04</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x04%20-%20Mujeres%20de%20rojo.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x05</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x05%20-%20Sequoya%20roja.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x06</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x06%20-%20Mano%20roja.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x07</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x07%20-%20Vision%20roja.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x08</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x08%20-%20La%20delgada%20linea%20roja.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x09</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x09%20-%20Rojo%20fuego.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x10</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x10%20-%20Aulas%20rojas.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x11</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x11%20-%20Los%20amigos%20de%20John%20El%20Rojo.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x12</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x12%20-%20Maleficio%20rojo.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x13</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x13%20-%20Pintando%20en%20rojo.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x14</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x14%20-%20Casanova%20rojo.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x15</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x15%20-%20Fiebre%20roja.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x16</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x16%20-%20Inyectado%20en%20sangre.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x17</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x17%20-%20Rojo%20Corporativo.mkv</urlsolve>
        </item>
 
        <item>
         <title>El Mentalista 1x18</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x18%20-%20Patatas%20rojas.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x19</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x19%20-%20Una%20docena%20de%20rosas%20rojas.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x20</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x20%20-%20Sauce%20Rojo.mkv</urlsolve>
        </item>
 
        <item>
         <title>El Mentalista 1x21</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x21%20-%20La%20pantera%20roja.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x22</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x22%20-%20Hermanos%20de%20sangre.mkv</urlsolve>
        </item>
        
        <item>
         <title>El Mentalista 1x23</title>
-        <fanart></fanart>
+        <fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
         <thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
         <urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/1x23%20-%20Tras%20la%20pista%20de%20John%20el%20Rojo.mkv</urlsolve>
        </item>
     </items>
 </channel>
+</channels>
+
+<channels>
+<channel>
+	<name>[COLOR green]El Mentalista 2ª Temporada[/COLOR]</name>
+	<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+	<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+	<items>
+		<item>
+			<title>El Mentalista 2x01</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x01%20-%20Lo%20rojo%20de%20la%20redenci%c3%b3n.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x02</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x02%20-%20La%20letra%20escarlata.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x03</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x03%20-%20Placa%20roja.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x04</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x04%20-%20Amenaza%20roja.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x05</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x05%20-%20Miedo%20rojo.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x06</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x06%20-%20Oro%20negro%20y%20sangre%20roja.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x07</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x07%20-%20Toros%20rojos.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x08</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x08%20-%20Secretaria%20roja.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x09</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x09%20-%20M%c3%a1s%20valioso%20que%20un%20rub%c3%ad.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x10</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x10%20-%20Lanzando%20fuego.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x11</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x11%20-%20De%20color%20rosa.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x12</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x12%20-%20Coraz%c3%b3n%20sangrante.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x13</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x13%20-%20La%20linea%20roja.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x14</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x14%20-%20Sangre%20nuestra%20sangre%20ajena.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x15</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x15%20-%20Se%c3%b1uelo%20Rojo.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x16</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x16%20-%20C%c3%b3digo%20rojo.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x17</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x18%20-%20Patatas%20rojas.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x18</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x18%20-%20Patatas%20rojas.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x19</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x19%20-%20Dinero%20de%20sangre.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x20</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x20%20-%20Rojo%20por%20los%20cuatro%20costados.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x21</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x21%20-%2018-5-4.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x22</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x22%20-%20Carta%20Roja.mkv</urlsolve>
+		</item>
+		<item>
+			<title>El Mentalista 2x23</title>
+			<fanart>https://mediamass.net/jdd/public/documents/entries/31.jpg</fanart>
+			<thumbnail>https://mediamass.net/jdd/public/documents/entries/31.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Series/El%20Mentalista/2x23%20-%20Cielo%20rojo%20por%20la%20ma%c3%b1ana.mkv</urlsolve>
+		</item>
+	</items>
+</channel>
+</channels>
