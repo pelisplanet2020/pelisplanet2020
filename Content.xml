@@ -49,6 +49,27 @@
        </item>
        
        <item>
+       	<title>Jurassic Park 1</title>
+       	<fanart>http://imgfz.com/i/JMIFzmh.jpeg</fanart>
+       	<thumbnail>http://imgfz.com/i/JMIFzmh.jpeg</thumbnail>
+       	<urlsolve>http://fanta.56k.es/peliculas/Jurassic_park_I-1993-Spanish_English-Fanta.mkv</urlsolve>
+       </item>
+       
+       <item>
+       	<title>Jurassic Park 2</title>
+       	<fanart>http://imgfz.com/i/JMIFzmh.jpeg</fanart>
+       	<thumbnail>http://imgfz.com/i/JMIFzmh.jpeg</thumbnail>
+       	<urlsolve>http://fanta.56k.es/peliculas/Jurassic_park_II-The_lost_world-Spanish_English-Fanta.mkv</urlsolve>
+       </item>
+       
+       <item>
+       	<title>Jurassic Park 3</title>
+       	<fanart>http://imgfz.com/i/JMIFzmh.jpeg</fanart>
+       	<thumbnail>http://imgfz.com/i/JMIFzmh.jpeg</thumbnail>
+       	<urlsolve>http://fanta.56k.es/peliculas/Jurassic_park_III-Spanish_English-Fanta.mkv</urlsolve>
+       </item>
+       
+       <item>
         <title>Jurassic world 1</title>
         <fanart>https://drive.google.com/open?id=1Yhgk39h6gzEn2VZERaBdlGexqm87dKdt</fanart>
         <thumbnail>https://drive.google.com/open?id=1Yhgk39h6gzEn2VZERaBdlGexqm87dKdt</thumbnail>
@@ -108,14 +129,14 @@
         <title>Ip man 1</title>
         <fanart>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</fanart>
         <thumbnail>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</thumbnail>
-        <urlsolve>https://embed.drive.google.com/open?id=1J-9GadFzKuk6wzLkDr4nqflZnNK9m7sY</urlsolve>
+        <urlsolve>https://drive.google.com/open?id=1J-9GadFzKuk6wzLkDr4nqflZnNK9m7sY</urlsolve>
        </item>
        
        <item>
         <title>Ip man 2</title>
         <fanart>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</fanart>
         <thumbnail>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</thumbnail>
-        <urlsolve>https://vidoza.net/embed-vdhtg8d4ddgd</urlsolve>
+        <urlsolve>https://embed.drive.google.com/open?id=1Rmb5850Eiq_fKrn4O5If26J2akIE_I_k</urlsolve>
        </item>
         
        <item>
@@ -129,7 +150,21 @@
        	<title>Rocky 2</title>
        	<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
        	<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
-       	<urlsolve>https://vidoza.net/embed-qm4d1cmm81it.html</urlsolve>
+       	<urlsolve>https://embed.drive.google.com/open?id=1eqgchLeQdFHPYkEfA2dh2ybtZ4FMDB2r</urlsolve>
+       </item>
+       
+       <item>
+        <title>rocky 3</title>
+        <fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
+        <thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
+        <urlsolve></urlsolve>
+       </item>
+       
+       <item>
+       	<title>Rocky 4</title>
+       	<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
+       	<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
+       	<urlsolve></urlsolve>
        </item>
        
        <item>
@@ -301,7 +336,7 @@
 				<info></info>
 				<fanart>http://imgfz.com/i/1DMIGaC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/1DMIGaC.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1092TX01G48iQcErEhPq6LECDfKlLqVOq</urlsolve>
+				<urlsolve>https://drive.google.com/open?id=1092TX01G48iQcErEhPq6LECDfKlLqVOq</urlsolve>
 			</item>
 			<item>
 				<title>Coco 2018</title>
@@ -349,11 +384,11 @@
         		<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
        		</item>
 			<item>
-				<title></title>
+				<title>Dumbo-1941</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>https://static.fnac-static.com/multimedia/Images/ES/NR/4f/30/4b/4927567/1540-1.jpg</fanart>
+				<thumbnail>https://static.fnac-static.com/multimedia/Images/ES/NR/4f/30/4b/4927567/1540-1.jpg</thumbnail>
+				<urlsolve>http://fanta.56k.es/peliculas/Dumbo-1941-Spanish-Fanta.mkv</urlsolve>
 			</item>
 			<item>
 				<title>Rogue one</title>
@@ -370,32 +405,39 @@
 				<urlsolve>http://fina.dyndns.tv/Peliculas/Pixels.mkv</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Hora Punta 1</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<fanart>http://imgfz.com/i/uN4gymc.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1Rt2Vb7tIzEDewDo_KEsoSKkS8W88l6ZH</urlsolve>
+			</item>
+			<item>
+				<title>Hora Punta 2</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/uN4gymc.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Pele Nace La Leyenda</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>http://imgfz.com/i/G0AH2DY.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/G0AH2DY.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/file/d/1250ck9GpZmboIhOBI96VZuZ1IqMMc-xq/view?usp=sharing</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Eduardo Manostijeras</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>https://cinetarioblogdotcom.files.wordpress.com/2013/12/ed986-eduardomanostijeras.jpg</fanart>
+				<thumbnail>https://cinetarioblogdotcom.files.wordpress.com/2013/12/ed986-eduardomanostijeras.jpg</thumbnail>
+				<urlsolve>http://fanta.56k.es/peliculas/Eduardo_manostijeras-Spanish_English_Subs-Fanta.mkv</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Super Lopez</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>https://es.web.img2.acsta.net/c_215_290/pictures/19/10/04/17/57/3449995.jpg</fanart>
+				<thumbnail>https://es.web.img2.acsta.net/c_215_290/pictures/19/10/04/17/57/3449995.jpg</thumbnail>
+				<urlsolve>http://fanta.56k.es/peliculas/SuperL%c3%b3pez-2018-Spanish-Fanta.mkv</urlsolve>
 			</item>
 			<item>
 				<title></title>
