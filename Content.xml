@@ -143,8 +143,8 @@
         <title>rocky 1</title>
         <fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
         <thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
-        <urlsolve></urlsolve>
-        <urlsolve></urlsolve>
+        <urlsolve>https://waaw.tv/watch_video.php?v=3B9ZXVdbX5vI</urlsolve>
+        <urlsolve>http://80.211.107.82/movies3/Harry.Potter.y.la.Camara.Secreta.%5bDVD-Rip%5d%5bAC3%5d%5bSpanish%5d%5bwww.zonatorrent.com%5d.avi/Harry.Potter.y.la.Camara.Secreta.%5bDVD-Rip%5d%5bCD2%5d%5bAC3%5d%5bSpanish%5d%5bwww.zonatorrent.com%5d.avi</urlsolve>
        </item>
        
        <item>
@@ -490,40 +490,38 @@
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title>Buscando a nemo</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/nD1wJd9.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/nD1wJd9.jpeg</thumbnail>
-				<urlsolve>http://80.211.107.82/movies3/Buscando%20a%20Nemo%20%5bDVDRip%5d%5bSpanish%5d%5bwww.lokotorrents.com%5d/63.Buscando%20a%20Nemo.www.lokotorrents.com.avi</urlsolve>
-			</item>
+        		<title>El hobbit Un viaje inesperado</title>
+        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>El hobbit La desolasión de smaug</title>
+        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        		<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>El hobbit La batalla de los 5 ejercitos</title>
+        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
+       		</item>
 			<item>
-				<title>Gru Mi villano favorito</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/MvPq6ml.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/MvPq6ml.jpeg</thumbnail>
-				<urlsolve>http://80.211.107.82/movies3/Gru%20(Mi%20Villano%20Favorito%20)%5bdvdrip%5d%5bspanish%5d%5bwww.lokotorrents.com%5d/Gru.mi.villano.favorito.DVDrip.Spanish.%5bwww.lokotorrents.com%5d.avi</urlsolve>
-			</item>
-			<item>
-				<title></title>
-				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
-			</item>
-			<item>
-				<title></title>
-				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
-			</item>
-			<item>
-				<title></title>
-				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
-			</item>
+        		<title>Spider-man 1</title>
+        		<fanart>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
+        		<urlsolve>https://drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>Spider-man 2</title>
+        		<fanart>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</thumbnail>
+        		<urlsolve>https://drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
+       		</item>
 			<item>
 				<title></title>
 				<info></info>
