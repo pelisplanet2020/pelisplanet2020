@@ -143,8 +143,7 @@
         <title>rocky 1</title>
         <fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
         <thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
-        <urlsolve>https://waaw.tv/watch_video.php?v=3B9ZXVdbX5vI</urlsolve>
-        <urlsolve>http://80.211.107.82/movies3/Harry.Potter.y.la.Camara.Secreta.%5bDVD-Rip%5d%5bAC3%5d%5bSpanish%5d%5bwww.zonatorrent.com%5d.avi/Harry.Potter.y.la.Camara.Secreta.%5bDVD-Rip%5d%5bCD2%5d%5bAC3%5d%5bSpanish%5d%5bwww.zonatorrent.com%5d.avi</urlsolve>
+        <urlsolve>https://embed.drive.google.com/open?id=1L2SsIwUYgrfzDCDQKggAmiHqH-PK5oi8</urlsolve>
        </item>
        
        <item>
@@ -158,7 +157,7 @@
         <title>rocky 3</title>
         <fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
         <thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
-        <urlsolve></urlsolve>
+        <urlsolve>https://embed.drive.google.com/open?id=1pEiUb7XwlWAPnKWilnAxngdeKcHqmstk</urlsolve>
        </item>
        
        <item>
@@ -448,21 +447,21 @@
 				<urlsolve>https://embed.drive.google.com/open?id=18gMr_RaDv6JE2iR9Smk95M01MzcTe1B-</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Harry Potter la Camára de los Secretos</title>
 				<info></info>
 				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1vb7-c4pZF1Ec3ny8vqYqoJedYD2O8HFQ</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Harry Potter y el prisionero de Azkaban</title>
 				<info></info>
 				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1fNKcSZ_KSP_FUGpNzrh4R0XT2WHTynP7</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>harry </title>
 				<info></info>
 				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
@@ -523,11 +522,11 @@
         		<urlsolve>https://drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
        		</item>
 			<item>
-				<title></title>
+				<title>Holmes_y_Watson-2019</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</fanart>
+				<thumbnail>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</thumbnail>
+				<urlsolve>http://fanta.56k.es/peliculas/Holmes_y_Watson-2019-Spanish-Fanta.mkv</urlsolve>
 			</item>
 			<item>
 				<title></title>
@@ -594,4 +593,15 @@
 			</item>
 		</items>
 	</channel>
+</channels>
+
+<channels>
+   <channel>
+    <info>[COLOR red]Ver Más Películas[/COLOR]</info>
+    <name>[COLOR #418DE4]Ver Más[/COLOR]</name>
+    <description>Aquí podras disfrutar del mejor cine de acción</description>
+    <thumbnail>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</thumbnail>
+    <fanart>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/mas.xml</externallink>
+   </channel>
 </channels>
