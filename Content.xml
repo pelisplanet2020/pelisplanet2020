@@ -126,19 +126,26 @@
        </item>
        
        <item>
-        <title>Ip man 1</title>
+        <title>Ip Man 1</title>
         <fanart>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</fanart>
         <thumbnail>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</thumbnail>
         <urlsolve>https://drive.google.com/open?id=1J-9GadFzKuk6wzLkDr4nqflZnNK9m7sY</urlsolve>
        </item>
        
        <item>
-        <title>Ip man 2</title>
+        <title>Ip Man 2</title>
         <fanart>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</fanart>
         <thumbnail>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</thumbnail>
         <urlsolve>https://embed.drive.google.com/open?id=1Rmb5850Eiq_fKrn4O5If26J2akIE_I_k</urlsolve>
        </item>
-        
+	    
+        <item>
+       	<title>Ip Man 3</title>
+       	<fanart></fanart>
+       	<thumbnail></thumbnail>
+       	<urlsolve>https://embed.drive.google.com/open?id=1QdVPqJ5FL38f6MmZoe5x9aRYndyRmBzC</urlsolve>
+       </item>
+	    
        <item>
         <title>rocky 1</title>
         <fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
@@ -193,13 +200,6 @@
        	<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
        	<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
        	<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2004%20El%20Despertar.mkv</urlsolve>
-       </item>
-       
-       <item>
-       	<title>dsdfdfdf</title>
-       	<fanart></fanart>
-       	<thumbnail></thumbnail>
-       	<urlsolve>https://www.netflix.com/watch/80211726?tctx=2%2C0%2C%2C%2C</urlsolve>
        </item>
        
        <item>
@@ -461,11 +461,11 @@
 				<urlsolve>https://embed.drive.google.com/open?id=1fNKcSZ_KSP_FUGpNzrh4R0XT2WHTynP7</urlsolve>
 			</item>
 			<item>
-				<title>harry </title>
+				<title>Harry Potter el Calíz de Fuego</title>
 				<info></info>
 				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1hRtmOKIohNBV3TNu9-vF4-dN1cY5YrRb</urlsolve>
 			</item>
 			<item>
 				<title></title>
