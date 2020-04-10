@@ -59,3 +59,13 @@
     <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/aqui.xml</externallink>
    </channel>
 </channels>
+
+<channels>
+   <channel>
+    <info>[COLOR orange][/COLOR]</info>
+    <name>[COLOR orange]Crossing Line[/COLOR]</name>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71EyPowCh4L._SY445_.jpg</thumbnail>
+		<fanart>https://images-na.ssl-images-amazon.com/images/I/71EyPowCh4L._SY445_.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/cross.xml</externallink>
+   </channel>
+</channels>
