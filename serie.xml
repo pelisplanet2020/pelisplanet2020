@@ -69,3 +69,13 @@
     <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/cross.xml</externallink>
    </channel>
 </channels>
+
+<channels>
+   <channel>
+    <info>[COLOR ][/COLOR]</info>
+    <name>[COLOR green]Scorpion[/COLOR]</name>
+    <thumbnail>https://es.web.img2.acsta.net/pictures/14/08/14/18/10/013182.jpg</thumbnail>
+	<fanart>https://es.web.img2.acsta.net/pictures/14/08/14/18/10/013182.jpg</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/scorp.xml</externallink>
+   </channel>
+</channels>
