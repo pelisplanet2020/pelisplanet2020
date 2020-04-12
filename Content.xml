@@ -27,20 +27,6 @@
        </item>
        
        <item>
-        	<title>Spider-man 1</title>
-        	<fanart>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
-        	<urlsolve>https://embed.drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
-       </item>
-        
-       <item>
-        	<title>Spider-man 2</title>
-        	<fanart></fanart>
-        	<thumbnail></thumbnail>
-        	<urlsolve>https://embed.drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
-       </item>
-       
-       <item>
         	<title>Rambo 2020</title>
         	<fanart>https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/rambo-last-blood/37599438-7-esl-ES/rambo-last-blood.jpg</fanart>
         	<thumbnail>https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/rambo-last-blood/37599438-7-esl-ES/rambo-last-blood.jpg</thumbnail>
@@ -146,185 +132,185 @@
        </item>
        
        <item>
-			<title>Rocky 2</title>
-			<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
-			<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
-			<urlsolve>https://embed.drive.google.com/open?id=1eqgchLeQdFHPYkEfA2dh2ybtZ4FMDB2r</urlsolve>
+		<title>Rocky 2</title>
+		<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
+		<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
+		<urlsolve>https://embed.drive.google.com/open?id=1eqgchLeQdFHPYkEfA2dh2ybtZ4FMDB2r</urlsolve>
        </item>
        
        <item>
-			<title>rocky 3</title>
-			<fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
-			<thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
-			<urlsolve>https://embed.drive.google.com/open?id=1pEiUb7XwlWAPnKWilnAxngdeKcHqmstk</urlsolve>
+		<title>rocky 3</title>
+		<fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
+		<thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
+		<urlsolve>https://embed.drive.google.com/open?id=1pEiUb7XwlWAPnKWilnAxngdeKcHqmstk</urlsolve>
        </item>
        
        <item>
-			<title>Rocky 4</title>
-			<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
-			<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
-			<urlsolve></urlsolve>
+		<title>Rocky 4</title>
+		<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
+		<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title>Underworld 01 .mkv</title>
-			<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-			<urlsolve></urlsolve>
+		<title>Underworld 01 .mkv</title>
+		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title>Underworld 02 .mkv</title>
-			<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-			<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2002%20Evolution.mkv</urlsolve>
+		<title>Underworld 02 .mkv</title>
+		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+		<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2002%20Evolution.mkv</urlsolve>
        </item>
        
        <item>
-			<title>Underworld 03 .mkv</title>
-			<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-			<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2003%20la%20revelion%20de%20los%20Licantropos.mkv</urlsolve>
+		<title>Underworld 03 .mkv</title>
+		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+		<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2003%20la%20revelion%20de%20los%20Licantropos.mkv</urlsolve>
        </item>
        
        <item>
-			<title>Underworld 04 .mkv</title>
-			<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-			<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2004%20El%20Despertar.mkv</urlsolve>
+		<title>Underworld 04 .mkv</title>
+		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+		<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2004%20El%20Despertar.mkv</urlsolve>
        </item>
        
        <item>
-			<title>Puñales por la espalda</title>
-			<fanart>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</fanart>
-			<thumbnail>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</thumbnail>
-			<urlsolve>https://bit.ly/3elmsPJ</urlsolve>
+		<title>Puñales por la espalda</title>
+		<fanart>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</fanart>
+		<thumbnail>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</thumbnail>
+		<urlsolve>https://bit.ly/3elmsPJ</urlsolve>
        </item>
        
        <item>
-			<title>bad boys 3</title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve>https://embed.drive.google.com/open?id=1zjxGss78agP1J2J9mX7uSQM2ttxF4Dim</urlsolve>
+		<title>bad boys 3</title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve>https://embed.drive.google.com/open?id=1zjxGss78agP1J2J9mX7uSQM2ttxF4Dim</urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
        
        <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+		<title></title>
+		<fanart></fanart>
+		<thumbnail></thumbnail>
+		<urlsolve></urlsolve>
        </item>
     </items>
 </channel>
@@ -385,30 +371,12 @@
 				<thumbnail>http://imgfz.com/i/6dnp0t4.jpeg</thumbnail>
 				<urlsolve>http://fina.dyndns.tv/Peliculas/Iron%20Man%203.mkv</urlsolve>
 			</item>
-       		<item>
-        		<title>Hermano oso 1</title>
-        		<fanart>https://drive.google.com/open?id=1KsJ8yl06UJYKGZODNTGN-xFN4ubCZrdM</fanart>
-        		<thumbnail>https://drive.google.com/open?id=1KsJ8yl06UJYKGZODNTGN-xFN4ubCZrdM</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/Hermano%20OSO%20.mkv</urlsolve>
-       		</item>
-       		<item>
-        		<title>Ant man y la avispa</title>
-        		<fanart>http://imgfz.com/i/IcYtEsx.jpeg</fanart>
-        		<thumbnail>http://imgfz.com/i/IcYtEsx.jpeg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/Ant%20Man%202.mkv</urlsolve>
-       		</item>
-       		<item>
-        		<title>Guardianes de la galaxia vol.1</title>
-        		<fanart>http://imgfz.com/i/EdgLeB0.jpeg</fanart>
-        		<thumbnail>http://imgfz.com/i/EdgLeB0.jpeg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/Guardianes%20de%20la%20galaxia.mkv</urlsolve>
-       		</item>
-        	<item>
-        		<title>Guardianes de la galaxia vol.2</title>
-        		<fanart>http://imgfz.com/i/glGCRhu.png</fanart>
-        		<thumbnail>http://imgfz.com/i/glGCRhu.png</thumbnail>
-        		<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
-       		</item>
+       			<item>
+        			<title>Hermano oso 1</title>
+        			<fanart>https://drive.google.com/open?id=1KsJ8yl06UJYKGZODNTGN-xFN4ubCZrdM</fanart>
+        			<thumbnail>https://drive.google.com/open?id=1KsJ8yl06UJYKGZODNTGN-xFN4ubCZrdM</thumbnail>
+        			<urlsolve>http://fina.dyndns.tv/Peliculas/Hermano%20OSO%20.mkv</urlsolve>
+       			</item>
 			<item>
 				<title>Dumbo-1941</title>
 				<info></info>
