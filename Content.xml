@@ -595,11 +595,11 @@
 
 <channels>
    <channel>
-    <info>[COLOR #418DE4]Ver Más Películas[/COLOR]</info>
-    <name>[COLOR #418DE4]Ver Más[/COLOR]</name>
+    <info>[COLOR blue]Ver Más Películas[/COLOR]</info>
+    <name>[COLOR blue]Ver Más[/COLOR]</name>
     <description>Aquí podras disfrutar del mejor cine de acción</description>
-    <thumbnail>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</thumbnail>
-    <fanart>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</fanart>
-    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/mas.xml</externallink>
+    <thumbnail>http://imgfz.com/i/8BzQsUd.png</thumbnail>
+    <fanart>http://imgfz.com/i/8BzQsUd.png</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/maspeli.xml</externallink>
    </channel>
 </channels>
