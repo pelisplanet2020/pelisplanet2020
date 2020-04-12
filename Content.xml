@@ -126,26 +126,19 @@
        </item>
        
        <item>
-        <title>Ip Man 1</title>
+        <title>Ip man 1</title>
         <fanart>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</fanart>
         <thumbnail>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</thumbnail>
         <urlsolve>https://drive.google.com/open?id=1J-9GadFzKuk6wzLkDr4nqflZnNK9m7sY</urlsolve>
        </item>
        
        <item>
-        <title>Ip Man 2</title>
+        <title>Ip man 2</title>
         <fanart>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</fanart>
         <thumbnail>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</thumbnail>
         <urlsolve>https://embed.drive.google.com/open?id=1Rmb5850Eiq_fKrn4O5If26J2akIE_I_k</urlsolve>
        </item>
-	    
-        <item>
-       	<title>Ip Man 3</title>
-       	<fanart>http://imgfz.com/i/jyHiBb8.jpeg</fanart>
-       	<thumbnail>http://imgfz.com/i/jyHiBb8.jpeg</thumbnail>
-       	<urlsolve>https://embed.drive.google.com/open?id=1QdVPqJ5FL38f6MmZoe5x9aRYndyRmBzC</urlsolve>
-       </item>
-	    
+        
        <item>
         <title>rocky 1</title>
         <fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
@@ -200,6 +193,13 @@
        	<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
        	<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
        	<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2004%20El%20Despertar.mkv</urlsolve>
+       </item>
+       
+       <item>
+       	<title>Puñales por la espalda</title>
+       	<fanart>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</fanart>
+       	<thumbnail>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</thumbnail>
+       	<urlsolve>https://bit.ly/3elmsPJ</urlsolve>
        </item>
        
        <item>
@@ -315,7 +315,7 @@
 				<info></info>
 				<fanart>http://imgfz.com/i/GSY0v5R.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/GSY0v5R.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1lld6iFuhy0C5UYOTNdUK50bXsFX15xwJ</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
 			<item>
 				<title>El libro de la selva</title>
@@ -461,11 +461,11 @@
 				<urlsolve>https://embed.drive.google.com/open?id=1fNKcSZ_KSP_FUGpNzrh4R0XT2WHTynP7</urlsolve>
 			</item>
 			<item>
-				<title>Harry Potter el Calíz de Fuego</title>
+				<title>harry </title>
 				<info></info>
 				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1hRtmOKIohNBV3TNu9-vF4-dN1cY5YrRb</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
 			<item>
 				<title></title>
@@ -510,30 +510,28 @@
        		</item>
 			<item>
         		<title>Spider-man 1</title>
-        		<fanart>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
-        		<thumbnail>https://drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
-        		<urlsolve>https://drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
+        		<fanart>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
+        		<thumbnail>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
+        		<urlsolve>https://embed.drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
        		</item>
        
        		<item>
         		<title>Spider-man 2</title>
         		<fanart>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</fanart>
         		<thumbnail>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</thumbnail>
-        		<urlsolve>https://drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
+        		<urlsolve>https://embed.drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
        		</item>
 			<item>
 				<title>Holmes_y_Watson-2019</title>
-				<info></info>
-				<fanart>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</fanart>
-				<thumbnail>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</thumbnail>
+				<info></info><fanart>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</fanart><thumbnail>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</thumbnail>
 				<urlsolve>http://fanta.56k.es/peliculas/Holmes_y_Watson-2019-Spanish-Fanta.mkv</urlsolve>
 			</item>
 			<item>
-				<title>Escuela de Rock</title>
+				<title></title>
 				<info></info>
-				<fanart>http://imgfz.com/i/BMcGXTb.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/BMcGXTb.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1-YCMYYjjhjzBLYwlTcflI_kGWuhEC2T5</urlsolve>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
 			</item>
 			<item>
 				<title></title>
@@ -597,11 +595,11 @@
 
 <channels>
    <channel>
-    <info>[COLOR red]Ver Más Películas[/COLOR]</info>
+    <info>[COLOR #418DE4]Ver Más Películas[/COLOR]</info>
     <name>[COLOR #418DE4]Ver Más[/COLOR]</name>
     <description>Aquí podras disfrutar del mejor cine de acción</description>
     <thumbnail>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</thumbnail>
     <fanart>https://drive.google.com/open?id=1J4PQhhke5soBnZRWGAqbDbRVJuMie54B</fanart>
-    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/mas.xml</externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Accion.xml</externallink>
    </channel>
 </channels>
