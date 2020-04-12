@@ -611,8 +611,8 @@
 
 <channels>
    <channel>
-    <info>[COLOR red]Ver Más Películas[/COLOR]</info>
-    <name>[COLOR #418DE4]Ver Más[/COLOR]</name>
+    <info>[COLOR blue]Ver Más Películas[/COLOR]</info>
+    <name>[COLOR blue]Ver Más[/COLOR]</name>
     <description>Aquí podras disfrutar de más películas</description>
     <thumbnail></thumbnail>
     <fanart></fanart>
