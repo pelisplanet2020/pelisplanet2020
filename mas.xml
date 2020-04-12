@@ -17,16 +17,16 @@
 				<urlsolve>http://fanta.56k.es/peliculas/Cementerio_viviente_II-1992-Spanish-Fanta.mkv</urlsolve>
 			</item>
 			<item>
-				<title>vvvvff</title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve>https://www.netflix.com/watch/60020810/v/.mp4</urlsolve>
+				<title>Parasitos 2019</title>
+				<fanart>//blazing.network/imagenes/peliculas/Parasitos19m.jpg</fanart>
+				<thumbnail>//blazing.network/imagenes/peliculas/Parasitos19m.jpg</thumbnail>
+				<urlsolve>https://bit.ly/3ecWU73</urlsolve>
 			</item>
 			<item>
-				<title>sdfsdfsdf</title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve>https://www.netflix.com/watch/60020810</urlsolve>
+				<title>Contagio 2013</title>
+				<fanart>//blazing.network/imagenes/peliculas/Contagio.jpg</fanart>
+				<thumbnail>//blazing.network/imagenes/peliculas/Contagio.jpg</thumbnail>
+				<urlsolve>http://5.39.94.171/Descargas/Contagio%20(2011)%5bBR%20m1080p%20AC3(ES-EN)%20Subs(ES-EN-FORZ)%5d.mkv</urlsolve>
 			</item>
 			<item>
 				<title></title>
@@ -127,6 +127,7 @@
 		</items>
 	</channel>
 </channels>
+
 <channels>
 	<channel>
 		<name>Películas C.Ficción</name>
@@ -168,6 +169,136 @@
 				<fanart>https://images-na.ssl-images-amazon.com/images/I/5182N7PCRRL._SX385_.jpg</fanart>
 				<thumbnail>https://images-na.ssl-images-amazon.com/images/I/5182N7PCRRL._SX385_.jpg</thumbnail>
 				<urlsolve>http://fanta.56k.es/peliculas/Gremlins_2-1990-Spanish_English-Subs-Fanta.mkv</urlsolve>
+			</item>
+			<item>
+				<title>Hercules</title>
+				<fanart>https://fr.web.img4.acsta.net/c_215_290/pictures/14/07/22/14/05/515154.jpg</fanart>
+				<thumbnail>https://fr.web.img4.acsta.net/c_215_290/pictures/14/07/22/14/05/515154.jpg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Hercules.mkv</urlsolve>
+			</item>
+			<item>
+				<title>La Forma del Agua</title>
+				<fanart>https://www.eldiario.es/fotos/Cartel-forma-agua_EDIIMA20180302_0769_5.jpg</fanart>
+				<thumbnail>https://www.eldiario.es/fotos/Cartel-forma-agua_EDIIMA20180302_0769_5.jpg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/La%20forma%20del%20agua.mkv</urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 1</title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Star Wars el ascenso de Skywalker</title>
+				<fanart>https://lumiere-a.akamaihd.net/v1/images/eu_sws-9-the-rise-of-skywalker_ft_m_e116ee0e.jpeg</fanart>
+				<thumbnail>https://lumiere-a.akamaihd.net/v1/images/eu_sws-9-the-rise-of-skywalker_ft_m_e116ee0e.jpeg</thumbnail><urlsolve>http://5.39.94.171/Descargas/Star%20Wars%20IX%20El%20ascenso%20de%20Skywalker%20(2019)%20%5bBR%201080p%20x264%20DTS(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
+			</item>
+			<item>
+				<title>Marte Español</title>
+				<fanart>https://agenda.diariovasco.com/media/eventos/0/0/4/9/5/495539_1.jpg</fanart>
+				<thumbnail>https://agenda.diariovasco.com/media/eventos/0/0/4/9/5/495539_1.jpg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Marte.mkv</urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+		</items>
+	</channel>
+</channels>
+
+<channels>
+	<channel>
+		<name>Películas Super heroes</name>
+		<thumbnail>http://imgfz.com/i/MHVf5Cp.jpeg</thumbnail>
+		<fanart>http://imgfz.com/i/MHVf5Cp.jpeg</fanart>
+		<items>
+			<item>
+				<title>Iron Man 3</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/6dnp0t4.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/6dnp0t4.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Iron%20Man%203.mkv</urlsolve>
+			</item>
+			<item>
+        		<title>Ant man y la avispa</title>
+        		<fanart>http://imgfz.com/i/IcYtEsx.jpeg</fanart>
+        		<thumbnail>http://imgfz.com/i/IcYtEsx.jpeg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/Ant%20Man%202.mkv</urlsolve>
+       		</item>
+       		<item>
+        		<title>Guardianes de la galaxia vol.1</title>
+        		<fanart>http://imgfz.com/i/EdgLeB0.jpeg</fanart>
+        		<thumbnail>http://imgfz.com/i/EdgLeB0.jpeg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/Guardianes%20de%20la%20galaxia.mkv</urlsolve>
+       		</item>
+        	<item>
+        		<title>Guardianes de la galaxia vol.2</title>
+        		<fanart>http://imgfz.com/i/glGCRhu.png</fanart>
+        		<thumbnail>http://imgfz.com/i/glGCRhu.png</thumbnail>
+        		<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
+       		</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
 			</item>
 			<item>
 				<title></title>
