@@ -140,16 +140,16 @@
        
        <item>
 		<title>rocky 3</title>
-		<fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
-		<thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
+		<fanart>https://pics.filmaffinity.com/Rocky_III-182829734-mmed.jpg</fanart>
+		<thumbnail>https://pics.filmaffinity.com/Rocky_III-182829734-mmed.jpg</thumbnail>
 		<urlsolve>https://embed.drive.google.com/open?id=1pEiUb7XwlWAPnKWilnAxngdeKcHqmstk</urlsolve>
        </item>
        
        <item>
 		<title>Rocky 4</title>
-		<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
-		<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
-		<urlsolve></urlsolve>
+		<fanart>https://www.ecartelera.com/carteles/5400/5407/001_m.jpg</fanart>
+		<thumbnail>https://www.ecartelera.com/carteles/5400/5407/001_m.jpg</thumbnail>
+		<urlsolve>https://embed.drive.google.com/open?id=12Hid0sl7x4FNnmFoCASt3QMjgsuTD9SE</urlsolve>
        </item>
        
        <item>
@@ -188,10 +188,10 @@
        </item>
        
        <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
+		<title>Bad Boys 3 for life</title>
+		<fanart>https://www.procinal.com.co/img/movies/bad_boys_para_siempre_.jpg</fanart>
+		<thumbnail>https://www.procinal.com.co/img/movies/bad_boys_para_siempre_.jpg</thumbnail>
+		<urlsolve>https://embed.drive.google.com/open?id=14GfYdmnzElWo6WuPqZ86GOSKLcm0RREp</urlsolve>
        </item>
        
        <item>
@@ -455,11 +455,18 @@
 				<urlsolve>https://embed.drive.google.com/open?id=1fNKcSZ_KSP_FUGpNzrh4R0XT2WHTynP7</urlsolve>
 			</item>
 			<item>
-				<title>harry </title>
+				<title>Harry Potter y el Calíz de Fuego </title>
 				<info></info>
 				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1hRtmOKIohNBV3TNu9-vF4-dN1cY5YrRb</urlsolve>
+			</item>
+			<item>
+				<title>Harry Potter y la Orden del Fenix</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=15A__k4Xo5mJnbgF3BgodSPMPuM2H4pQh</urlsolve>
 			</item>
 			<item>
 				<title></title>
@@ -483,53 +490,60 @@
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-        		<title>El hobbit Un viaje inesperado</title>
-        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
-       		</item>
-       		<item>
-        		<title>El hobbit La desolasión de smaug</title>
-        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        		<urlsolve></urlsolve>
-       		</item>
-       		<item>
-        		<title>El hobbit La batalla de los 5 ejercitos</title>
-        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
-       		</item>
+				<title></title>
+				<info></info>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
 			<item>
-        		<title>Spider-man 1</title>
-        		<fanart>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
-        		<thumbnail>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
-        		<urlsolve>https://embed.drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
-       		</item>
+        			<title>El hobbit Un viaje inesperado</title>
+        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        			<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
+       			</item>
+       			<item>
+        			<title>El hobbit La desolasión de smaug</title>
+        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        			<urlsolve></urlsolve>
+       			</item>
+       			<item>
+        			<title>El hobbit La batalla de los 5 ejercitos</title>
+        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        			<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
+       			</item>
+			<item>
+        			<title>Spider-man 1</title>
+        			<fanart>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
+        			<thumbnail>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
+        			<urlsolve>https://embed.drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
+       			</item>
        
-       		<item>
-        		<title>Spider-man 2</title>
-        		<fanart>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</fanart>
-        		<thumbnail>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</thumbnail>
-        		<urlsolve>https://embed.drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
-       		</item>
+       			<item>
+        			<title>Spider-man 2</title>
+        			<fanart>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</fanart>
+        			<thumbnail>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</thumbnail>
+        			<urlsolve>https://embed.drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
+       			</item>
 			<item>
 				<title>Holmes_y_Watson-2019</title>
 				<info></info><fanart>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</fanart><thumbnail>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</thumbnail>
 				<urlsolve>http://fanta.56k.es/peliculas/Holmes_y_Watson-2019-Spanish-Fanta.mkv</urlsolve>
 			</item>
 			<item>
-				<title>El Rey León 1</title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve>https://drive.google.com/open?id=1lld6iFuhy0C5UYOTNdUK50bXsFX15xwJ</urlsolve>
+				<title>Sonic 2020</title>
+				<fanart>https://media.aweita.larepublica.pe/678x508/aweita/imagen/2020/03/16/noticia-1584369169-0815514.jpg</fanart>
+				<thumbnail>https://media.aweita.larepublica.pe/678x508/aweita/imagen/2020/03/16/noticia-1584369169-0815514.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1j5Ln5OvIfqTZMe6lF3okAXVOSpYBF23I</urlsolve>
 			</item>
        
        			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<title>Jumanji Sigiente Nivel</title>
+				<fanart>https://i.pinimg.com/originals/b0/21/6d/b0216de0bc77b8a717cd148b45cf330e.png</fanart>
+				<thumbnail>https://i.pinimg.com/originals/b0/21/6d/b0216de0bc77b8a717cd148b45cf330e.png</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1bUZy25rLe9TONT9sOLHgJCBIzHnzih1E</urlsolve>
        			</item>
        
        			<item>
