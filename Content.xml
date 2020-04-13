@@ -123,6 +123,13 @@
         	<thumbnail>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</thumbnail>
         	<urlsolve>https://embed.drive.google.com/open?id=1Rmb5850Eiq_fKrn4O5If26J2akIE_I_k</urlsolve>
        </item>
+	    
+	<item>
+		<title>Ip Man 3</title>
+		<fanart>https://images-na.ssl-images-amazon.com/images/I/91DvuP4iFhL._AC_SY445_.jpg</fanart>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91DvuP4iFhL._AC_SY445_.jpg</thumbnail>
+		<urlsolve>https://embed.drive.google.com/open?id=1QdVPqJ5FL38f6MmZoe5x9aRYndyRmBzC</urlsolve>
+       </item>
         
        <item>
         	<title>rocky 1</title>
@@ -193,14 +200,7 @@
 		<thumbnail>https://www.procinal.com.co/img/movies/bad_boys_para_siempre_.jpg</thumbnail>
 		<urlsolve>https://embed.drive.google.com/open?id=14GfYdmnzElWo6WuPqZ86GOSKLcm0RREp</urlsolve>
        </item>
-       
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
-       
+        
        <item>
 		<title></title>
 		<fanart></fanart>
