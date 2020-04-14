@@ -202,116 +202,88 @@
        </item>
         
        <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
        
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
-       
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
-       
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
-       
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
-       
-       <item>
-		<title></title>
-		<fanart></fanart>
-		<thumbnail></thumbnail>
-		<urlsolve></urlsolve>
-       </item>
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
     </items>
 </channel>
 </channels>
@@ -322,26 +294,28 @@
 		<info>[COLOR red]Sección de Películas Cine en familia[/COLOR]</info>
 		<thumbnail>http://imgfz.com/i/QswLE3e.jpeg</thumbnail>
 		<fanart>http://imgfz.com/i/QswLE3e.jpeg</fanart>
+		
 		<items>
-		<item>
-			<title>El rey León 1</title>
-			<info></info>
-			<fanart>http://imgfz.com/i/GSY0v5R.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/GSY0v5R.jpeg</thumbnail>
-			<urlsolve>https://embed.drive.google.com/open?id=1lld6iFuhy0C5UYOTNdUK50bXsFX15xwJ</urlsolve>
-		</item>
-		<item>
-			<title>El libro de la selva</title>
-			<info></info>
-			<fanart>http://imgfz.com/i/37EfeCc.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/37EfeCc.jpeg</thumbnail>
-			<urlsolve>http://fina.dyndns.tv/Peliculas/Libro%20de%20la%20Selva.mkv</urlsolve>
-		</item>
+			<item>
+				<title>El rey León 1</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/GSY0v5R.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/GSY0v5R.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1lld6iFuhy0C5UYOTNdUK50bXsFX15xwJ</urlsolve>
+			</item>
+			<item>
+				<title>El libro de la selva</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/37EfeCc.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/37EfeCc.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Libro%20de%20la%20Selva.mkv</urlsolve>
+			</item>
 			<item>
 				<title>El Rey León 2019</title>
 				<info></info>
 				<fanart>http://imgfz.com/i/4IYiEX2.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/4IYiEX2.jpeg</thumbnail><urlsolve>http://5.39.94.171/Descargas/El%20Rey%20Le%c3%b3n%20(2019)%20%5bBR%20x265%20DTS(ES)%20AC3(ES:EN)%20Subs(ES:EN)%5d.mkv</urlsolve>
+				<thumbnail>http://imgfz.com/i/4IYiEX2.jpeg</thumbnail>
+				<urlsolve>http://5.39.94.171/Descargas/El%20Rey%20Le%c3%b3n%20(2019)%20%5bBR%20x265%20DTS(ES)%20AC3(ES:EN)%20Subs(ES:EN)%5d.mkv</urlsolve>
 			</item>
 			<item>
 				<title>El Chef</title>
@@ -403,7 +377,7 @@
 				<info></info>
 				<fanart>http://imgfz.com/i/uN4gymc.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1Rt2Vb7tIzEDewDo_KEsoSKkS8W88l6ZH</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
 			<item>
 				<title>Hora Punta 2</title>
