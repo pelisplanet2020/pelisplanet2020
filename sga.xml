@@ -73,11 +73,11 @@
 				<urlsolve>https://embed.drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Spider-Man 3</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>https://es.web.img2.acsta.net/medias/nmedia/18/67/67/65/20054918.jpg</fanart>
+				<thumbnail>https://es.web.img2.acsta.net/medias/nmedia/18/67/67/65/20054918.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1Pxy-4AzG_dBIZSy08IyfpVKGuSVFfMRi</urlsolve>
 			</item>
 			<item>
 				<title></title>
@@ -366,7 +366,7 @@
 				<info></info>
 				<fanart>https://k42.kn3.net/58C6A82D5.jpg</fanart>
 				<thumbnail>https://k42.kn3.net/58C6A82D5.jpg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1ayemvOQZ9_FwGC0fVw-ND2X3D0gFvT-i</urlsolve>
 			</item>
 			<item>
 				<title>Señor de los Anillos 2</title>
@@ -383,22 +383,22 @@
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-        		<title>El hobbit Un viaje inesperado</title>
-        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
+        			<title>El hobbit Un viaje inesperado</title>
+        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        			<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
 			</item>
 			<item>
-        		<title>El hobbit La desolasión de smaug</title>
-        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        		<urlsolve></urlsolve>
+        			<title>El hobbit La desolasión de smaug</title>
+        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        			<urlsolve></urlsolve>
 			</item>
 			<item>
-        		<title>El hobbit La batalla de los 5 ejercitos</title>
-        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
+        			<title>El hobbit La batalla de los 5 ejercitos</title>
+        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        			<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
 			</item>
 		</items>
 	</channel>
@@ -430,7 +430,7 @@
 				<info></info>
 				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
 				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=17ZDp-zMTMbkwGYWDN4Hkk3DUsxwFUDUR</urlsolve>
 			</item>
 			<item>
 				<title>Star Wars 4</title>
