@@ -1,5 +1,175 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
+<channels>
+	<channel>
+		<name>[COLOR blue]Saga Harry Potter[/COLOR]</name>
+		<info>Harry Potter es una serie de novelas fantásticas escrita por la autora británica J. K. Rowling, en la que se describen las aventuras del joven aprendiz de magia y hechicería Harry Potter y sus amigos Hermione Granger y Ron Weasley, durante los años que pasan en el Colegio Hogwarts de Magia y Hechicería.</info>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<items>
+			<item>
+				<title>Harry Potter La piedra filosofal</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=18gMr_RaDv6JE2iR9Smk95M01MzcTe1B-</urlsolve>
+			</item>
+			<item>
+				<title>Harry Potter la Camára de los Secretos</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1vb7-c4pZF1Ec3ny8vqYqoJedYD2O8HFQ</urlsolve>
+			</item>
+			<item>
+				<title>Harry Potter y el prisionero de Azkaban</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1fNKcSZ_KSP_FUGpNzrh4R0XT2WHTynP7</urlsolve>
+			</item>
+			<item>
+				<title>Harry Potter y el Calíz de Fuego </title>
+				<info></info>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1hRtmOKIohNBV3TNu9-vF4-dN1cY5YrRb</urlsolve>
+			</item>
+			<item>
+				<title>Harry Potter y la Orden del Fenix</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=15A__k4Xo5mJnbgF3BgodSPMPuM2H4pQh</urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+		</items>
+	</channel>
+</channels>
+<channels>
+	<channel>
+		<name>[COLOR orangered]Saga Marvel[/COLOR]</name>
+		<info>El Universo cinematográfico de Marvel es una franquicia de medios y un universo compartido, centrada en una serie de películas de superhéroes producidas independientemente por Marvel Studios y basadas en los personajes que aparecen en las publicaciones de Marvel Comics.</info>
+		<thumbnail>https://www.merca2.es/wp-content/uploads/2020/03/orden-marvel-696x366.jpg</thumbnail>
+		<fanart>https://www.merca2.es/wp-content/uploads/2020/03/orden-marvel-696x366.jpg</fanart>
+		<items>
+		
+			<item>
+        		<title>Spider-man 1</title>
+        		<fanart>http://imgfz.com/i/C3BmPJK.jpeg</fanart>
+        		<thumbnail>http://imgfz.com/i/C3BmPJK.jpeg</thumbnail>
+        		<urlsolve>https://embed.drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
+			</item>
+			<item>
+				<title>Spider-man 2</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/5M3arWI.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/5M3arWI.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Iron Man 3</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/6dnp0t4.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/6dnp0t4.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Iron%20Man%203.mkv</urlsolve>
+			</item>
+			<item>
+        		<title>Ant man y la avispa</title>
+        		<fanart>http://imgfz.com/i/IcYtEsx.jpeg</fanart>
+        		<thumbnail>http://imgfz.com/i/IcYtEsx.jpeg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/Ant%20Man%202.mkv</urlsolve>
+       		</item>
+       		<item>
+        		<title>Guardianes de la galaxia vol.1</title>
+        		<fanart>http://imgfz.com/i/EdgLeB0.jpeg</fanart>
+        		<thumbnail>http://imgfz.com/i/EdgLeB0.jpeg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/Guardianes%20de%20la%20galaxia.mkv</urlsolve>
+       		</item>
+        	<item>
+        		<title>Guardianes de la galaxia vol.2</title>
+        		<fanart>http://imgfz.com/i/glGCRhu.png</fanart>
+        		<thumbnail>http://imgfz.com/i/glGCRhu.png</thumbnail>
+        		<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
+       		</item>
+		</items>
+	</channel>
+</channels>
 <channels>
 	<channel>
 		<name>[COLOR tomato]Saga Jurassic Park y World[/COLOR]</name>
@@ -50,7 +220,6 @@
 		</items>
 	</channel>
 </channels>
-
 <channels>
 	<channel>
 		<name>[COLOR goldenrod]Saga Rocky[/COLOR]</name>
@@ -99,7 +268,6 @@
 		</items>
 	</channel>
 </channels>
-
 <channels>
 	<channel>
 		<name>[COLOR red]Saga Ip Man[/COLOR]</name>
@@ -133,6 +301,104 @@
 				<fanart></fanart>
 				<thumbnail></thumbnail>
 				<urlsolve></urlsolve>
+			</item>
+		</items>
+	</channel>
+</channels>
+<channels>
+	<channel>
+		<name>[COLOR red]Saga Underworld[/COLOR]</name>
+		<info></info>
+		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+		
+		<items>
+			<item>
+				<title>Underworld 01</title>
+				<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2001%20.mkv</urlsolve>
+			</item>
+			<item>
+				<title>Underworld 02 .mkv</title>
+				<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2002%20Evolution.mkv</urlsolve>
+			</item>
+			<item>
+				<title>Underworld 03 .mkv</title>
+				<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2003%20la%20revelion%20de%20los%20Licantropos.mkv</urlsolve>
+			</item>
+			<item>
+				<title>Underworld 04 .mkv</title>
+				<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2004%20El%20Despertar.mkv</urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+		</items>
+	</channel>
+</channels>
+<channels>
+	<channel>
+		<name>[COLOR brown]Saga Señor de los Anillos y El Hobbit[/COLOR]</name>
+		<info>Su historia se desarrolla en la Tercera Edad del Sol de la Tierra Media, un lugar ficticio poblado por hombres y otras razas antropomorfas como los hobbits, los elfos o los enanos, así como por muchas otras criaturas reales y fantásticas.</info>
+		<thumbnail>http://imgfz.com/i/W6u7thI.jpeg</thumbnail>
+		<fanart>http://imgfz.com/i/W6u7thI.jpeg</fanart>
+		<items>
+			<item>
+				<title>Señor de los Anillos 1</title>
+				<info></info>
+				<fanart>https://k42.kn3.net/58C6A82D5.jpg</fanart>
+				<thumbnail>https://k42.kn3.net/58C6A82D5.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Señor de los Anillos 2</title>
+				<info></info>
+				<fanart>https://k42.kn3.net/58C6A82D5.jpg</fanart>
+				<thumbnail>https://k42.kn3.net/58C6A82D5.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Señor de los Anillos 3</title>
+				<info></info>
+				<fanart>https://k42.kn3.net/58C6A82D5.jpg</fanart>
+				<thumbnail>https://k42.kn3.net/58C6A82D5.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+        		<title>El hobbit Un viaje inesperado</title>
+        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
+			</item>
+			<item>
+        		<title>El hobbit La desolasión de smaug</title>
+        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        		<urlsolve></urlsolve>
+			</item>
+			<item>
+        		<title>El hobbit La batalla de los 5 ejercitos</title>
+        		<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
+        		<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
 			</item>
 		</items>
 	</channel>
