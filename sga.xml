@@ -403,3 +403,75 @@
 		</items>
 	</channel>
 </channels>
+
+<channels>
+	<channel>
+		<name>[COLOR ]Saga Star Wars[/COLOR]</name>
+		<info></info>
+		<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+		<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+		<items>
+			<item>
+				<title>Star Wars 1</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1qtxtfi0gNjCDJLti9zGYKr-X-tt_cQ1U</urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 2</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1pyvKG24XZWfpjOkbh7HjY9jmDhQJ8nya</urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 3</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 4</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 5</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 6</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 7</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 8</title>
+				<info></info>
+				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
+				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Star Wars 9</title>
+				<fanart>https://lumiere-a.akamaihd.net/v1/images/eu_sws-9-the-rise-of-skywalker_ft_m_e116ee0e.jpeg</fanart>
+				<thumbnail>https://lumiere-a.akamaihd.net/v1/images/eu_sws-9-the-rise-of-skywalker_ft_m_e116ee0e.jpeg</thumbnail><urlsolve>http://5.39.94.171/Descargas/Star%20Wars%20IX%20El%20ascenso%20de%20Skywalker%20(2019)%20%5bBR%201080p%20x264%20DTS(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
+			</item>
+		</items>
+	</channel>
+</channels>
