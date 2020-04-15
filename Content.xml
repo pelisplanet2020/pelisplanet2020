@@ -6,220 +6,108 @@
     <fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_logo.png?v=2</fanart>
     <items>
       
-       <item>
-        	<title>terminator Destino Oscuro</title>
-        	<fanart>https://drive.google.com/open?id=1JR_OFx6ynDOMXteZVwzhZPjerJJraiey</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1JR_OFx6ynDOMXteZVwzhZPjerJJraiey</thumbnail>
-        	<urlsolve>http://5.39.94.171/Descargas/Terminator%20Destino%20Oscuro%20(2019)%20%5b1080p%5d.mkv</urlsolve>
-       </item>
+       		<item>
+        		<title>terminator Destino Oscuro</title>
+        		<fanart>https://drive.google.com/open?id=1JR_OFx6ynDOMXteZVwzhZPjerJJraiey</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1JR_OFx6ynDOMXteZVwzhZPjerJJraiey</thumbnail>
+        		<urlsolve>http://5.39.94.171/Descargas/Terminator%20Destino%20Oscuro%20(2019)%20%5b1080p%5d.mkv</urlsolve>
+       		</item>
         
-       <item>
-        	<title>Geminis 2020</title>
-        	<fanart>https://drive.google.com/open?id=1tMFOTogFWrAb4bm6EE_DKNtepWu1AyuF</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1tMFOTogFWrAb4bm6EE_DKNtepWu1AyuF</thumbnail><urlsolve>http://5.39.94.171/Descargas/Geminis%20(2019)%20%5bREMUX%20AVC%201080p%20True%20HD(EN)%20AC3(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>El Renacido</title>
-        	<fanart>https://drive.google.com/open?id=1wsr8MobK_vwG07mgxsuh8tvuXhVtKa-T</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1wsr8MobK_vwG07mgxsuh8tvuXhVtKa-T</thumbnail>
-        	<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Renacido.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Rambo 2020</title>
-        	<fanart>https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/rambo-last-blood/37599438-7-esl-ES/rambo-last-blood.jpg</fanart>
-        	<thumbnail>https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/rambo-last-blood/37599438-7-esl-ES/rambo-last-blood.jpg</thumbnail>
-        	<urlsolve>https://vidoza.net/ve4b4nuwzuuc.html</urlsolve>
-       </item>
-       
-       <item>
-			<title>Jurassic Park 1</title>
-			<fanart>http://imgfz.com/i/JMIFzmh.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/JMIFzmh.jpeg</thumbnail>
-			<urlsolve>http://fanta.56k.es/peliculas/Jurassic_park_I-1993-Spanish_English-Fanta.mkv</urlsolve>
-       </item>
-       
-       <item>
-			<title>Jurassic Park 2</title>
-			<fanart>http://imgfz.com/i/JMIFzmh.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/JMIFzmh.jpeg</thumbnail>
-			<urlsolve>http://fanta.56k.es/peliculas/Jurassic_park_II-The_lost_world-Spanish_English-Fanta.mkv</urlsolve>
-       </item>
-       
-       <item>
-			<title>Jurassic Park 3</title>
-			<fanart>http://imgfz.com/i/JMIFzmh.jpeg</fanart>
-			<thumbnail>http://imgfz.com/i/JMIFzmh.jpeg</thumbnail>
-			<urlsolve>http://fanta.56k.es/peliculas/Jurassic_park_III-Spanish_English-Fanta.mkv</urlsolve>
-       </item>
-       
-       <item>
-			<title>Jurassic world 1</title>
-			<fanart>https://drive.google.com/open?id=1Yhgk39h6gzEn2VZERaBdlGexqm87dKdt</fanart>
-			<thumbnail>https://drive.google.com/open?id=1Yhgk39h6gzEn2VZERaBdlGexqm87dKdt</thumbnail>
-			<urlsolve>http://fina.dyndns.tv/Peliculas/Jurassic%20World.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Jurassic world 2</title>
-        	<fanart>https://drive.google.com/open?id=1SFica8-Q50erqbVXockaAHiZsTsNFr3k</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1SFica8-Q50erqbVXockaAHiZsTsNFr3k</thumbnail>
-        	<urlsolve>http://fanta.56k.es/peliculas/Jurassic_world_II-2018-Spanish-Fanta.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Lobezno inmortal</title>
-        	<fanart>https://drive.google.com/open?id=1uGH-RB1LVCHON2yLzXAV1LC72RA6OTOt</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1uGH-RB1LVCHON2yLzXAV1LC72RA6OTOt</thumbnail>
-        	<urlsolve>http://fina.dyndns.tv/Peliculas/Lobezno%20inmortal.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Megalodon</title>
-        	<fanart>https://drive.google.com/open?id=1AAqWKIf4QrLNWdSgn3cCbKbjiyuEgr50</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1AAqWKIf4QrLNWdSgn3cCbKbjiyuEgr50</thumbnail>
-        	<urlsolve>http://fina.dyndns.tv/Peliculas/Megalodon.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Terminator 1</title>
-        	<fanart>https://drive.google.com/open?id=1m5qjlI_Vn6zv2FiWgVWMz2Q-h_8hmPvQ</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1m5qjlI_Vn6zv2FiWgVWMz2Q-h_8hmPvQ</thumbnail>
-        	<urlsolve>http://fanta.56k.es/peliculas/Terminator_1-Spanish_English_Subs-Fanta.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Terminator 2</title>
-        	<fanart>https://drive.google.com/open?id=1Ioyecstt30ypY9lczEtoR0RaZkLrNSHy</fanart>
-        	<thumbnail>https://drive.google.com/open?id=1Ioyecstt30ypY9lczEtoR0RaZkLrNSHy</thumbnail>
-        	<urlsolve>http://fanta.56k.es/peliculas/Terminator_2-El_juicio_final-Extendida-Spanish-Fanta.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Objetivo Washington D.C</title>
-        	<fanart>https://miro.medium.com/max/705/1*dRyCLfKPgBMwGIh-QDnW-A.jpeg</fanart>
-        	<thumbnail>https://miro.medium.com/max/705/1*dRyCLfKPgBMwGIh-QDnW-A.jpeg</thumbnail>
-        	<urlsolve>http://5.39.94.171/Descargas/Objetivo%20Washington%20D.C.%20(2019)%20%5b1080p%5d.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Puñales por la espalda</title>
-        	<fanart>https://pics.filmaffinity.com/Pu_ales_por_la_espalda-326770674-large.jpg</fanart>
-        	<thumbnail>https://pics.filmaffinity.com/Pu_ales_por_la_espalda-326770674-large.jpg</thumbnail>
-        	<urlsolve>http://5.39.94.171/Descargas/Pu%c3%b1ales%20Por%20La%20Espalda%20(2019)%20MicroHD%201080p.mkv</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Ip man 1</title>
-        	<fanart>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</fanart>
-        	<thumbnail>https://3.bp.blogspot.com/-jT2HKYX09v8/UFG52Sk-AvI/AAAAAAAAGNA/ATef-okonnk/s1600/IP+MAN+BRRIP.jpg</thumbnail>
-        	<urlsolve>https://drive.google.com/open?id=1J-9GadFzKuk6wzLkDr4nqflZnNK9m7sY</urlsolve>
-       </item>
-       
-       <item>
-        	<title>Ip man 2</title>
-        	<fanart>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</fanart>
-        	<thumbnail>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg</thumbnail>
-        	<urlsolve>https://embed.drive.google.com/open?id=1Rmb5850Eiq_fKrn4O5If26J2akIE_I_k</urlsolve>
-       </item>
-	    
-	<item>
-		<title>Ip Man 3</title>
-		<fanart>https://images-na.ssl-images-amazon.com/images/I/91DvuP4iFhL._AC_SY445_.jpg</fanart>
-		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91DvuP4iFhL._AC_SY445_.jpg</thumbnail>
-		<urlsolve>https://embed.drive.google.com/open?id=1QdVPqJ5FL38f6MmZoe5x9aRYndyRmBzC</urlsolve>
-       </item>
-        
-       <item>
-        	<title>rocky 1</title>
-        	<fanart>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</fanart>
-        	<thumbnail>https://www.discshop.se/img/front_large/41223/rocky_1_import_sv_text.jpg</thumbnail>
-        	<urlsolve>https://embed.drive.google.com/open?id=1L2SsIwUYgrfzDCDQKggAmiHqH-PK5oi8</urlsolve>
-       </item>
-       
-       <item>
-		<title>Rocky 2</title>
-		<fanart>https://img.repelis.id/cover/rocky-ii.jpg</fanart>
-		<thumbnail>https://img.repelis.id/cover/rocky-ii.jpg</thumbnail>
-		<urlsolve>https://embed.drive.google.com/open?id=1eqgchLeQdFHPYkEfA2dh2ybtZ4FMDB2r</urlsolve>
-       </item>
-       
-       <item>
-		<title>rocky 3</title>
-		<fanart>https://pics.filmaffinity.com/Rocky_III-182829734-mmed.jpg</fanart>
-		<thumbnail>https://pics.filmaffinity.com/Rocky_III-182829734-mmed.jpg</thumbnail>
-		<urlsolve>https://embed.drive.google.com/open?id=1pEiUb7XwlWAPnKWilnAxngdeKcHqmstk</urlsolve>
-       </item>
-       
-       <item>
-		<title>Rocky 4</title>
-		<fanart>https://www.ecartelera.com/carteles/5400/5407/001_m.jpg</fanart>
-		<thumbnail>https://www.ecartelera.com/carteles/5400/5407/001_m.jpg</thumbnail>
-		<urlsolve>https://embed.drive.google.com/open?id=12Hid0sl7x4FNnmFoCASt3QMjgsuTD9SE</urlsolve>
-       </item>
-       
-       <item>
-		<title>Underworld 01 .mkv</title>
-		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-		<urlsolve></urlsolve>
-       </item>
-       
-       <item>
-		<title>Underworld 02 .mkv</title>
-		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-		<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2002%20Evolution.mkv</urlsolve>
-       </item>
-       
-       <item>
-		<title>Underworld 03 .mkv</title>
-		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-		<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2003%20la%20revelion%20de%20los%20Licantropos.mkv</urlsolve>
-       </item>
-       
-       <item>
-		<title>Underworld 04 .mkv</title>
-		<fanart>http://imgfz.com/i/pijf1l6.jpeg</fanart>
-		<thumbnail>http://imgfz.com/i/pijf1l6.jpeg</thumbnail>
-		<urlsolve>http://fina.dyndns.tv/Peliculas/Underworld%2004%20El%20Despertar.mkv</urlsolve>
-       </item>
-       
-       <item>
-		<title>Puñales por la espalda</title>
-		<fanart>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</fanart>
-		<thumbnail>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</thumbnail>
-		<urlsolve>https://bit.ly/3elmsPJ</urlsolve>
-       </item>
-       
-       <item>
-		<title>Bad Boys 3 for life</title>
-		<fanart>https://www.procinal.com.co/img/movies/bad_boys_para_siempre_.jpg</fanart>
-		<thumbnail>https://www.procinal.com.co/img/movies/bad_boys_para_siempre_.jpg</thumbnail>
-		<urlsolve>https://embed.drive.google.com/open?id=14GfYdmnzElWo6WuPqZ86GOSKLcm0RREp</urlsolve>
-       </item>
-        
-       <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+       		<item>
+        		<title>Geminis 2020</title>
+        		<fanart>https://drive.google.com/open?id=1tMFOTogFWrAb4bm6EE_DKNtepWu1AyuF</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1tMFOTogFWrAb4bm6EE_DKNtepWu1AyuF</thumbnail><urlsolve>http://5.39.94.171/Descargas/Geminis%20(2019)%20%5bREMUX%20AVC%201080p%20True%20HD(EN)%20AC3(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
        		</item>
        
        		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+        		<title>El Renacido</title>
+        		<fanart>https://drive.google.com/open?id=1wsr8MobK_vwG07mgxsuh8tvuXhVtKa-T</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1wsr8MobK_vwG07mgxsuh8tvuXhVtKa-T</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Renacido.mkv</urlsolve>
        		</item>
        
        		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+        		<title>Rambo 2020</title>
+        		<fanart>https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/rambo-last-blood/37599438-7-esl-ES/rambo-last-blood.jpg</fanart>
+        		<thumbnail>https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/rambo-last-blood/37599438-7-esl-ES/rambo-last-blood.jpg</thumbnail>
+        		<urlsolve>https://vidoza.net/ve4b4nuwzuuc.html</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>Lobezno inmortal</title>
+        		<fanart>https://drive.google.com/open?id=1uGH-RB1LVCHON2yLzXAV1LC72RA6OTOt</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1uGH-RB1LVCHON2yLzXAV1LC72RA6OTOt</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/Lobezno%20inmortal.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>Megalodon</title>
+        		<fanart>https://drive.google.com/open?id=1AAqWKIf4QrLNWdSgn3cCbKbjiyuEgr50</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1AAqWKIf4QrLNWdSgn3cCbKbjiyuEgr50</thumbnail>
+        		<urlsolve>http://fina.dyndns.tv/Peliculas/Megalodon.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>Terminator 1</title>
+        		<fanart>https://drive.google.com/open?id=1m5qjlI_Vn6zv2FiWgVWMz2Q-h_8hmPvQ</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1m5qjlI_Vn6zv2FiWgVWMz2Q-h_8hmPvQ</thumbnail>
+        		<urlsolve>http://fanta.56k.es/peliculas/Terminator_1-Spanish_English_Subs-Fanta.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>Terminator 2</title>
+        		<fanart>https://drive.google.com/open?id=1Ioyecstt30ypY9lczEtoR0RaZkLrNSHy</fanart>
+        		<thumbnail>https://drive.google.com/open?id=1Ioyecstt30ypY9lczEtoR0RaZkLrNSHy</thumbnail>
+        		<urlsolve>http://fanta.56k.es/peliculas/Terminator_2-El_juicio_final-Extendida-Spanish-Fanta.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>Objetivo Washington D.C</title>
+        		<fanart>https://miro.medium.com/max/705/1*dRyCLfKPgBMwGIh-QDnW-A.jpeg</fanart>
+        		<thumbnail>https://miro.medium.com/max/705/1*dRyCLfKPgBMwGIh-QDnW-A.jpeg</thumbnail>
+        		<urlsolve>http://5.39.94.171/Descargas/Objetivo%20Washington%20D.C.%20(2019)%20%5b1080p%5d.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+        		<title>Puñales por la espalda</title>
+        		<fanart>https://pics.filmaffinity.com/Pu_ales_por_la_espalda-326770674-large.jpg</fanart>
+        		<thumbnail>https://pics.filmaffinity.com/Pu_ales_por_la_espalda-326770674-large.jpg</thumbnail>
+        		<urlsolve>http://5.39.94.171/Descargas/Pu%c3%b1ales%20Por%20La%20Espalda%20(2019)%20MicroHD%201080p.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+			<title>Puñales por la espalda</title>
+			<fanart>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</fanart>
+			<thumbnail>https://blazing.network/imagenes/peliculas/Punales%20por%20la%20espaldab.jpg</thumbnail>
+			<urlsolve>https://bit.ly/3elmsPJ</urlsolve>
+       		</item>
+       
+       		<item>
+			<title>Bad Boys 3 for life</title>
+			<fanart>https://www.procinal.com.co/img/movies/bad_boys_para_siempre_.jpg</fanart>
+			<thumbnail>https://www.procinal.com.co/img/movies/bad_boys_para_siempre_.jpg</thumbnail>
+			<urlsolve>https://embed.drive.google.com/open?id=14GfYdmnzElWo6WuPqZ86GOSKLcm0RREp</urlsolve>
+       		</item>
+        
+       		<item>
+			<title>Escuadron Suicida</title>
+			<fanart>https://images-na.ssl-images-amazon.com/images/I/71khLoKEEyL._SX342_.jpg</fanart>
+			<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71khLoKEEyL._SX342_.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Peliculas/Escuadron%20Suicida.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+			<title>Elysium 2013</title>
+			<fanart>https://pics.filmaffinity.com/Elysium-117652296-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Elysium-117652296-large.jpg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Peliculas/Elysium.mkv</urlsolve>
+       		</item>
+       
+       		<item>
+			<title>San Andres</title>
+			<fanart>http://imgfz.com/i/9DZb4Sl.jpeg</fanart>
+			<thumbnail>http://imgfz.com/i/9DZb4Sl.jpeg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Peliculas/San%20Andres.mkv</urlsolve>
        		</item>
        
        		<item>
@@ -338,13 +226,7 @@
 				<thumbnail>https://i.pinimg.com/originals/f1/7c/6c/f17c6ce1a4520b55928e770df823afcd.jpg</thumbnail>
 				<urlsolve>http://fina.dyndns.tv/Peliculas/Bambi.mkv</urlsolve>
 			</item>
-			<item>
-				<title>Iron Man 3</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/6dnp0t4.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/6dnp0t4.jpeg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Peliculas/Iron%20Man%203.mkv</urlsolve>
-			</item>
+			
        			<item>
         			<title>Hermano oso 1</title>
         			<fanart>https://drive.google.com/open?id=1KsJ8yl06UJYKGZODNTGN-xFN4ubCZrdM</fanart>
@@ -407,41 +289,7 @@
 				<thumbnail>https://es.web.img2.acsta.net/c_215_290/pictures/19/10/04/17/57/3449995.jpg</thumbnail>
 				<urlsolve>http://fanta.56k.es/peliculas/SuperL%c3%b3pez-2018-Spanish-Fanta.mkv</urlsolve>
 			</item>
-			<item>
-				<title>Harry Potter La piedra filosofal</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=18gMr_RaDv6JE2iR9Smk95M01MzcTe1B-</urlsolve>
-			</item>
-			<item>
-				<title>Harry Potter la Camára de los Secretos</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1vb7-c4pZF1Ec3ny8vqYqoJedYD2O8HFQ</urlsolve>
-			</item>
-			<item>
-				<title>Harry Potter y el prisionero de Azkaban</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1fNKcSZ_KSP_FUGpNzrh4R0XT2WHTynP7</urlsolve>
-			</item>
-			<item>
-				<title>Harry Potter y el Calíz de Fuego </title>
-				<info></info>
-				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1hRtmOKIohNBV3TNu9-vF4-dN1cY5YrRb</urlsolve>
-			</item>
-			<item>
-				<title>Harry Potter y la Orden del Fenix</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=15A__k4Xo5mJnbgF3BgodSPMPuM2H4pQh</urlsolve>
-			</item>
+			
 			<item>
 				<title></title>
 				<info></info>
@@ -470,37 +318,7 @@
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
-			<item>
-        			<title>El hobbit Un viaje inesperado</title>
-        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        			<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit.mkv</urlsolve>
-       			</item>
-       			<item>
-        			<title>El hobbit La desolasión de smaug</title>
-        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        			<urlsolve></urlsolve>
-       			</item>
-       			<item>
-        			<title>El hobbit La batalla de los 5 ejercitos</title>
-        			<fanart>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</fanart>
-        			<thumbnail>https://i.ebayimg.com/images/g/VboAAOSw9bBZlm9b/s-l400.jpg</thumbnail>
-        			<urlsolve>http://fina.dyndns.tv/Peliculas/El%20Hobbit%203.mkv</urlsolve>
-       			</item>
-			<item>
-        			<title>Spider-man 1</title>
-        			<fanart>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</fanart>
-        			<thumbnail>https://embed.drive.google.com/open?id=1X-UAfGylMWRfOj-3wI4MshjFfDGrxLPI</thumbnail>
-        			<urlsolve>https://embed.drive.google.com/open?id=1TIOU5HdQ60M2XFMb17soujg0fyugh919</urlsolve>
-       			</item>
-       
-       			<item>
-        			<title>Spider-man 2</title>
-        			<fanart>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</fanart>
-        			<thumbnail>https://drive.google.com/open?id=1pWlmSDQFq3GM4XhWYIeEet0jzWoAduGO</thumbnail>
-        			<urlsolve>https://embed.drive.google.com/open?id=1-qQgryHzmvXSIw6vCRNGq-tvwn3-TTFy</urlsolve>
-       			</item>
+			
 			<item>
 				<title>Holmes_y_Watson-2019</title>
 				<info></info><fanart>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</fanart><thumbnail>https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_5/public/feature/images/holmes_watson.jpg</thumbnail>
