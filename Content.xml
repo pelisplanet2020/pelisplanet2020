@@ -123,12 +123,19 @@
 			<thumbnail>https://www.cineycine.com/archivos/2020/02/escape-plan-2-hades-poster.jpg</thumbnail>
 			<urlsolve>https://embed.drive.google.com/open?id=1FUqjBt0Bp07nxe1BBb8GJK7H4BkQIqtp</urlsolve>
        		</item>
+	    
+	    	<item>
+			<title>Plan de Escape 3</title>
+			<fanart>https://www.ecartelera.com/carteles/15500/15577/001_m.jpg</fanart>
+			<thumbnail>https://www.ecartelera.com/carteles/15500/15577/001_m.jpg</thumbnail>
+			<urlsolve>https://embed.drive.google.com/open?id=1rIN-uVWiHjBzjP6_EqYOWC0pYwsKydGq</urlsolve>
+       		</item>
        
        		<item>
 			<title>Hora Punta 1</title>
 			<fanart>http://imgfz.com/i/uN4gymc.jpeg</fanart>
 			<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
-			<urlsolve></urlsolve>
+			<urlsolve>https://embed.drive.google.com/open?id=1_BBtA3cZZ2vvNi71yRioDdVrD3Jf3Y5M</urlsolve>
        		</item>
        
        		<item>
@@ -254,20 +261,7 @@
 				<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Video123/v4/8d/4e/7e/8d4e7ed7-545f-cab0-ecb3-afb7d140ff4c/pr_source.lsr/268x0w.png</thumbnail>
 				<urlsolve>http://fina.dyndns.tv/Peliculas/Pixels.mkv</urlsolve>
 			</item>
-			<item>
-				<title>Hora Punta 1</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/uN4gymc.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
-				<urlsolve></urlsolve>
-			</item>
-			<item>
-				<title>Hora Punta 2</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/uN4gymc.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
-				<urlsolve></urlsolve>
-			</item>
+			
 			<item>
 				<title>Pele Nace La Leyenda</title>
 				<info></info>
@@ -305,11 +299,11 @@
 				<urlsolve>https://embed.drive.google.com/open?id=17-MZHq0X4xM8dZlCazoENpTBIK9eRKh0</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Escuela de Rock</title>
 				<info></info>
-				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>http://imgfz.com/i/lHiUMnk.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/lHiUMnk.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1-YCMYYjjhjzBLYwlTcflI_kGWuhEC2T5</urlsolve>
 			</item>
 			<item>
 				<title></title>
