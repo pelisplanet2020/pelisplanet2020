@@ -55,8 +55,8 @@
 	<channel>
 		<name>[COLOR orangered]Saga Marvel[/COLOR]</name>
 		<info>El Universo cinematográfico de Marvel es una franquicia de medios y un universo compartido, centrada en una serie de películas de superhéroes producidas independientemente por Marvel Studios y basadas en los personajes que aparecen en las publicaciones de Marvel Comics.</info>
-		<thumbnail>https://www.merca2.es/wp-content/uploads/2020/03/orden-marvel-696x366.jpg</thumbnail>
-		<fanart>https://www.merca2.es/wp-content/uploads/2020/03/orden-marvel-696x366.jpg</fanart>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61jJQIi9SnL.jpg</thumbnail>
+		<fanart>https://images-na.ssl-images-amazon.com/images/I/61jJQIi9SnL.jpg</fanart>
 		<items>
 		
 			<item>
@@ -94,24 +94,24 @@
 				<urlsolve></urlsolve>
 			</item>
 			<item>
+				<title>Thor</title>
+				<info></info>
+				<fanart>http://imgfz.com/i/DxvG4ka.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/DxvG4ka.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1bnDvTJimXcUY-QeT7clN6srqZ5S8si6J</urlsolve>
+			</item>
+			<item>
 				<title></title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<fanart>http://imgfz.com/i/DxvG4ka.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/DxvG4ka.jpeg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
 				<title></title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
-			</item>
-			<item>
-				<title></title>
-				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<fanart>http://imgfz.com/i/DxvG4ka.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/DxvG4ka.jpeg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
