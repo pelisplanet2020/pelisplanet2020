@@ -1,142 +1,127 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <channels>
 	<channel>
-		<title>Prison Break 1ª Temporada</title>
+		<name>Prison Break 1ª Temporada</name>
 		<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
 		<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 		<items>
 			<item>
-				<name>Prison Break 1x01</name>
+				<title>Prison Break 1x01</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
 				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x01.mkv</urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x02</name>
+				<title>Prison Break 1x02</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
 				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x02.mkv</urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x03</name>
+				<title>Prison Break 1x03</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x03.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x04</name>
+				<title>Prison Break 1x04</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x04.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x05</name>
+				<title>Prison Break 1x05</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x05.mkv</urlsolve>
+				<urlsolve>https://bit.ly/3b3PLE7</urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x06</name>
+				<title>Prison Break 1x06</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x06.mkv</urlsolve>
+				<urlsolve>https://bit.ly/2XvlXfG</urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x07</name>
+				<title>Prison Break 1x07</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x07.mkv</urlsolve>
+				<urlsolve>https://bit.ly/34u3Po0</urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x08</name>
+				<title>Prison Break 1x08</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x08.mkv</urlsolve>
+				<urlsolve>http://5.39.94.171/Descargas/The%20Mandalorian%201x08%20Redenci%c3%b3n.mkv</urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x09</name>
+				<title>Prison Break 1x09</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x09.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x10</name>
+				<title>Prison Break 1x10</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x10.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x11</name>
+				<title>Prison Break 1x11</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x11.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x12</name>
+				<title>Prison Break 1x12</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x12.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x13</name>
+				<title>Prison Break 1x13</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x13.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x14</name>
+				<title>Prison Break 1x14</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x14.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
+		</items>
+		<items>
 			<item>
-				<name>Prison Break 1x15</name>
+				<title>Prison Break 1x15</title>
 				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
 				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x15.mkv</urlsolve>
-			</item>
-			<item>
-				<name>Prison Break 1x16</name>
-				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x16.mkv</urlsolve>
-			</item>
-			<item>
-				<name>Prison Break 1x17</name>
-				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x17.mkv</urlsolve>
-			</item>
-			<item>
-				<name>Prison Break 1x18</name>
-				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x18.mkv</urlsolve>
-			</item>
-			<item>
-				<name>Prison Break 1x19</name>
-				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x19.mkv</urlsolve>
-			</item>
-			<item>
-				<name>Prison Break 1x20</name>
-				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x20.mkv</urlsolve>
-			</item>
-			<item>
-				<name>Prison Break 1x21</name>
-				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x21.mkv</urlsolve>
-			</item>
-			<item>
-				<name>Prison Break 1x22</name>
-				<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-				<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Series/Prison%20Break/01x22.mkv</urlsolve>
+				<urlsolve></urlsolve>
 			</item>
 		</items>
 	</channel>
