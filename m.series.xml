@@ -21,13 +21,13 @@
 </channels>
 
 <channels>
-   <channel>
-    <info>[COLOR ][/COLOR]</info>
-    <name>[COLOR coral]Prison Break[/COLOR]</name>
-    <thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
-    <fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
-    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/brak.xml</externallink>
-   </channel>
+	<channel>
+		<name>[COLOR steelblue]Prison Break[/COLOR]</name>
+		<info></info>
+		<thumbnail>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</thumbnail>
+		<fanart>https://conlibrosyalolocoblog.files.wordpress.com/2017/05/original1.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/prison.xml</externallink>
+	</channel>
 </channels>
 
 <channels>
