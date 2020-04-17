@@ -94,18 +94,25 @@
 				<urlsolve>https://embed.drive.google.com/open?id=1Pxy-4AzG_dBIZSy08IyfpVKGuSVFfMRi</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Iron Man 1</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<fanart>https://images-na.ssl-images-amazon.com/images/I/71knQPegWgL._SL1008_.jpg</fanart>
+				<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71knQPegWgL._SL1008_.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1s6BtTmHBeRksalYdgJSfg0BTEZWPGX9l</urlsolve>
+			</item>
+			<item>
+				<title>iron Man 2</title>
+				<info></info>
+				<fanart>https://images-na.ssl-images-amazon.com/images/I/71knQPegWgL._SL1008_.jpg</fanart>
+				<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71knQPegWgL._SL1008_.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Iron Man 3</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>http://imgfz.com/i/6dnp0t4.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/6dnp0t4.jpeg</thumbnail>
+				<urlsolve>http://fina.dyndns.tv/Peliculas/Iron%20Man%203.mkv</urlsolve>
 			</item>
 			<item>
 				<title>Thor</title>
@@ -156,24 +163,18 @@
 				<thumbnail></thumbnail>
 				<urlsolve></urlsolve>
 			</item>
+			
 			<item>
-				<title>Iron Man 3</title>
-				<info></info>
-				<fanart>http://imgfz.com/i/6dnp0t4.jpeg</fanart>
-				<thumbnail>http://imgfz.com/i/6dnp0t4.jpeg</thumbnail>
-				<urlsolve>http://fina.dyndns.tv/Peliculas/Iron%20Man%203.mkv</urlsolve>
-			</item>
-			<item>
-        		<title>Ant man y la avispa</title>
-        		<fanart>http://imgfz.com/i/IcYtEsx.jpeg</fanart>
-        		<thumbnail>http://imgfz.com/i/IcYtEsx.jpeg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/Ant%20Man%202.mkv</urlsolve>
-       		</item>
-       		<item>
-        		<title>Guardianes de la galaxia vol.1</title>
-        		<fanart>http://imgfz.com/i/EdgLeB0.jpeg</fanart>
-        		<thumbnail>http://imgfz.com/i/EdgLeB0.jpeg</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/Guardianes%20de%20la%20galaxia.mkv</urlsolve>
+        			<title>Ant man y la avispa</title>
+        			<fanart>http://imgfz.com/i/IcYtEsx.jpeg</fanart>
+        			<thumbnail>http://imgfz.com/i/IcYtEsx.jpeg</thumbnail>
+        			<urlsolve>http://fina.dyndns.tv/Peliculas/Ant%20Man%202.mkv</urlsolve>
+       			</item>
+       			<item>
+        			<title>Guardianes de la galaxia vol.1</title>
+        			<fanart>http://imgfz.com/i/EdgLeB0.jpeg</fanart>
+        			<thumbnail>http://imgfz.com/i/EdgLeB0.jpeg</thumbnail>
+        			<urlsolve>http://fina.dyndns.tv/Peliculas/Guardianes%20de%20la%20galaxia.mkv</urlsolve>
        		</item>
         	<item>
         		<title>Guardianes de la galaxia vol.2</title>
