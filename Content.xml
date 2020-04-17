@@ -332,40 +332,45 @@
 				<urlsolve></urlsolve>
        			</item>
        
-       <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
-       </item>
+       			<item>
+				<title>Jumanji 1995 4K</title>
+				<fanart>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</fanart>
+				<thumbnail>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=14p44WPq0zMwPxJSLGic43Z13t6QRWwo-</urlsolve>
+				
+				<title>Jumanji 1995 HD</title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=14sG2TodYsUXJmojUs997KIweAn2kruqW</urlsolve>
+       			</item>
        
-       <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
-       </item>
+       			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+       			</item>
        
-       <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
-       </item>
+       			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+       			</item>
        
-       <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
-       </item>
+       			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+       			</item>
        
-       <item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
-       </item>
+       			<item>
+				<title></title>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+       			</item>
 		</items>
 	</channel>
 </channels>
