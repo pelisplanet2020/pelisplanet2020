@@ -41,13 +41,13 @@
 </channels>
 
 <channels>
-   <channel>
-    <info>[COLOR ][/COLOR]</info>
-    <name>[COLOR ][/COLOR]</name>
-    <thumbnail>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</thumbnail>
-    <fanart>https://drive.google.com/open?id=1jYJzDnYn9K-WwIzUDEF0-3LzjsREgPfP</fanart>
-    <externallink></externallink>
-   </channel>
+	<channel>
+		<name>[COLOR steelblue]Pokemón[/COLOR]</name>
+		<info></info>
+		<thumbnail>https://img.milanuncios.com/fg/2393/70/239370804_1.jpg</thumbnail>
+		<fanart>https://img.milanuncios.com/fg/2393/70/239370804_1.jpg</fanart>
+		<externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/pok.xml</externallink>
+	</channel>
 </channels>
 
 <channels>
