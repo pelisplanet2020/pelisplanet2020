@@ -49,17 +49,17 @@
 				<urlsolve>https://embed.drive.google.com/open?id=1PjR7-W3uU2_Lt01QNBaIMa5LqStMFEEx</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Harry Potter las Reliquias de la Muerte Parte I</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1ge_P5iAWW2unjX1HlPKSZvdSte0cRiM_</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Harry Potter las Reliquias de la Muerte Parte II</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 		</items>
@@ -143,11 +143,11 @@
 				<urlsolve>https://embed.drive.google.com/open?id=14sG2TodYsUXJmojUs997KIweAn2kruqW</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>X-men Fenix Oscura</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<fanart>https://pics.filmaffinity.com/X_Men_F_nix_Oscura-584760870-large.jpg</fanart>
+				<thumbnail>https://pics.filmaffinity.com/X_Men_F_nix_Oscura-584760870-large.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1JCj9g3bHApjKp7cCF28JsbUhAlZNEa0d</urlsolve>
 			</item>
 			<item>
 				<title></title>
@@ -459,7 +459,7 @@
 				<info></info>
 				<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</fanart>
 				<thumbnail>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/12/18/15766807360292.jpg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1O7TJf5654yiVpCmBN_mNLFSgX5x0N812</urlsolve>
 			</item>
 			<item>
 				<title>Star Wars 6</title>
@@ -485,7 +485,8 @@
 			<item>
 				<title>Star Wars 9</title>
 				<fanart>https://lumiere-a.akamaihd.net/v1/images/eu_sws-9-the-rise-of-skywalker_ft_m_e116ee0e.jpeg</fanart>
-				<thumbnail>https://lumiere-a.akamaihd.net/v1/images/eu_sws-9-the-rise-of-skywalker_ft_m_e116ee0e.jpeg</thumbnail><urlsolve>http://5.39.94.171/Descargas/Star%20Wars%20IX%20El%20ascenso%20de%20Skywalker%20(2019)%20%5bBR%201080p%20x264%20DTS(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
+				<thumbnail>https://lumiere-a.akamaihd.net/v1/images/eu_sws-9-the-rise-of-skywalker_ft_m_e116ee0e.jpeg</thumbnail>
+				<urlsolve>http://5.39.94.171/Descargas/Star%20Wars%20IX%20El%20ascenso%20de%20Skywalker%20(2019)%20%5bBR%201080p%20x264%20DTS(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
 			</item>
 		</items>
 	</channel>
