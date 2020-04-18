@@ -146,10 +146,10 @@
        		</item>
        
        		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve>http://gamovideo.com/5gkc5aaw7jro</urlsolve>
+			<title>Gozilla el Rey de los Monstruos</title>
+			<fanart>https://i.pinimg.com/originals/0e/94/c7/0e94c75079c7d41f41cfce8e555b9636.jpg</fanart>
+			<thumbnail>https://i.pinimg.com/originals/0e/94/c7/0e94c75079c7d41f41cfce8e555b9636.jpg</thumbnail>
+			<urlsolve>https://embed.drive.google.com/open?id=1UPqpuBu2YaqxCfrUcAHEWhTnYuWczNvu</urlsolve>
        		</item>
        
        		<item>
@@ -317,6 +317,20 @@
 				<thumbnail>https://media.aweita.larepublica.pe/678x508/aweita/imagen/2020/03/16/noticia-1584369169-0815514.jpg</thumbnail>
 				<urlsolve>https://embed.drive.google.com/open?id=1j5Ln5OvIfqTZMe6lF3okAXVOSpYBF23I</urlsolve>
 			</item>
+			
+			<item>
+				<title>Jumanji 1995 4K</title>
+				<fanart>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</fanart>
+				<thumbnail>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</thumbnail>
+				<urlsolve title="4K">https://embed.drive.google.com/open?id=14p44WPq0zMwPxJSLGic43Z13t6QRWwo-</urlsolve>
+       			</item>
+			
+			<item>
+				<title>Jumanji 1995 4K</title>
+				<fanart>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</fanart>
+				<thumbnail>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</thumbnail>
+				<urlsolve title="HD">https://embed.drive.google.com/open?id=14p44WPq0zMwPxJSLGic43Z13t6QRWwo-</urlsolve>
+       			</item>
        
        			<item>
 				<title>Jumanji Sigiente Nivel</title>
@@ -333,17 +347,10 @@
        			</item>
        
        			<item>
-				<title>Jumanji 1995 4K</title>
-				<fanart>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</fanart>
-				<thumbnail>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=14p44WPq0zMwPxJSLGic43Z13t6QRWwo-</urlsolve>
-       			</item>
-       
-       			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<title>Aladdin Disney</title>
+				<fanart>https://pendulo.com/imagenes_grandes/9786075/978607532499.GIF</fanart>
+				<thumbnail>https://pendulo.com/imagenes_grandes/9786075/978607532499.GIF</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1TedcL9rj2JH53VFEuK19dweofT5LdM7Y</urlsolve>
        			</item>
        
        			<item>
