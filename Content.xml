@@ -74,6 +74,20 @@
         		<thumbnail>https://pics.filmaffinity.com/Pu_ales_por_la_espalda-326770674-large.jpg</thumbnail>
         		<urlsolve>http://5.39.94.171/Descargas/Pu%c3%b1ales%20Por%20La%20Espalda%20(2019)%20MicroHD%201080p.mkv</urlsolve>
        		</item>
+	    
+	    	<item>
+			<title>Bad Boys 1</title>
+			<fanart>https://pics.filmaffinity.com/Dos_polic_as_rebeldes-129541367-large.jpg</fanart>
+			<thumbnail>https://pics.filmaffinity.com/Dos_polic_as_rebeldes-129541367-large.jpg</thumbnail>
+			<urlsolve>https://embed.drive.google.com/open?id=1IxcfslfdidrDKCScrNEX_4hj0_2hi8FX</urlsolve>
+       		</item>
+       
+       		<item>
+			<title>bad Boys 2</title>
+			<fanart>https://es.web.img3.acsta.net/medias/nmedia/18/89/99/59/20076307.jpg</fanart>
+			<thumbnail>https://es.web.img3.acsta.net/medias/nmedia/18/89/99/59/20076307.jpg</thumbnail>
+			<urlsolve>https://embed.drive.google.com/open?id=10amHBQXkSN5wHhbe8zfswtYYwOsCrL0d</urlsolve>
+       		</item>
        
        		<item>
 			<title>Bad Boys 3 for life</title>
@@ -129,20 +143,6 @@
 			<fanart>http://imgfz.com/i/uN4gymc.jpeg</fanart>
 			<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
 			<urlsolve>https://embed.drive.google.com/open?id=1_BBtA3cZZ2vvNi71yRioDdVrD3Jf3Y5M</urlsolve>
-       		</item>
-       
-       		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
-       		</item>
-       
-       		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
        		</item>
        
        		<item>
@@ -326,10 +326,10 @@
        			</item>
        
        			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve></urlsolve>
+				<title>Jumanji Bienvenidos a la Jungla</title>
+				<fanart>https://pics.filmaffinity.com/Jumanji_Bienvenidos_a_la_jungla-388589585-large.jpg</fanart>
+				<thumbnail>https://pics.filmaffinity.com/Jumanji_Bienvenidos_a_la_jungla-388589585-large.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1nbZQzLuEY4j7fQ2SgAKdNWxUTetSSSWK</urlsolve>
        			</item>
        
        			<item>
@@ -337,11 +337,6 @@
 				<fanart>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</fanart>
 				<thumbnail>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</thumbnail>
 				<urlsolve>https://embed.drive.google.com/open?id=14p44WPq0zMwPxJSLGic43Z13t6QRWwo-</urlsolve>
-				
-				<title>Jumanji 1995 HD</title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=14sG2TodYsUXJmojUs997KIweAn2kruqW</urlsolve>
        			</item>
        
        			<item>
