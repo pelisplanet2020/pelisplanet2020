@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
-    <name>[COLOR red]Películas de Acción[/COLOR]</name>
+    <name>[COLOR red]Películas de Acción y Suspense[/COLOR]</name>
     <thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_logo.png?v=2</thumbnail>
     <fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_logo.png?v=2</fanart>
     <items>
       
        		<item>
         		<title>terminator Destino Oscuro</title>
-        		<fanart>https://drive.google.com/open?id=1JR_OFx6ynDOMXteZVwzhZPjerJJraiey</fanart>
-        		<thumbnail>https://drive.google.com/open?id=1JR_OFx6ynDOMXteZVwzhZPjerJJraiey</thumbnail>
+        		<fanart>http://imgfz.com/i/hUu8DMA.jpeg</fanart>
+        		<thumbnail>http://imgfz.com/i/hUu8DMA.jpeg</thumbnail>
         		<urlsolve>http://5.39.94.171/Descargas/Terminator%20Destino%20Oscuro%20(2019)%20%5b1080p%5d.mkv</urlsolve>
        		</item>
         
        		<item>
         		<title>Geminis 2020</title>
-        		<fanart>https://drive.google.com/open?id=1tMFOTogFWrAb4bm6EE_DKNtepWu1AyuF</fanart>
-        		<thumbnail>https://drive.google.com/open?id=1tMFOTogFWrAb4bm6EE_DKNtepWu1AyuF</thumbnail><urlsolve>http://5.39.94.171/Descargas/Geminis%20(2019)%20%5bREMUX%20AVC%201080p%20True%20HD(EN)%20AC3(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
+        		<fanart>http://imgfz.com/i/fteCyA4.png</fanart>
+        		<thumbnail>http://imgfz.com/i/fteCyA4.png</thumbnail><urlsolve>http://5.39.94.171/Descargas/Geminis%20(2019)%20%5bREMUX%20AVC%201080p%20True%20HD(EN)%20AC3(ES:EN)%20Sub(ES:EN)%5d.mkv</urlsolve>
        		</item>
        
        		<item>
@@ -38,13 +38,6 @@
         		<fanart>http://imgfz.com/i/OFZJAQ1.jpeg</fanart>
         		<thumbnail>http://imgfz.com/i/OFZJAQ1.jpeg</thumbnail>
         		<urlsolve>http://fina.dyndns.tv/Peliculas/Lobezno%20inmortal.mkv</urlsolve>
-       		</item>
-       
-       		<item>
-        		<title>Megalodon</title>
-        		<fanart>https://drive.google.com/open?id=1AAqWKIf4QrLNWdSgn3cCbKbjiyuEgr50</fanart>
-        		<thumbnail>https://drive.google.com/open?id=1AAqWKIf4QrLNWdSgn3cCbKbjiyuEgr50</thumbnail>
-        		<urlsolve>http://fina.dyndns.tv/Peliculas/Megalodon.mkv</urlsolve>
        		</item>
        
        		<item>
@@ -167,10 +160,10 @@
        		</item>
        
        		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+			<title>La Ventana Secreta</title>
+			<fanart>http://imgfz.com/i/hg9waMT.jpeg</fanart>
+			<thumbnail>http://imgfz.com/i/hg9waMT.jpeg</thumbnail>
+			<urlsolve>http://fina.dyndns.tv/Peliculas/La%20Ventana%20Secreta.mkv</urlsolve>
        		</item>
 	    
 	    	<item>
