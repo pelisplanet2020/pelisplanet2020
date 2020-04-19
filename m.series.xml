@@ -23,10 +23,10 @@
 <channels>
    <channel>
     <info>[COLOR ][/COLOR]</info>
-    <name>[COLOR ]Serie Dragon Ball Z [/COLOR]</name>
-    <thumbnail>ttps://pics.filmaffinity.com/The_Mandalorian_Serie_de_TV-526462730-large.jpg</thumbnail>
-    <fanart>ttps://pics.filmaffinity.com/The_Mandalorian_Serie_de_TV-526462730-large.jpg</fanart>
-    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/dbz.xml</externallink>
+    	<name>[COLOR ]Serie Dragon Ball Z [/COLOR]</name>
+	<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+	<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+    	<externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/dbz.xml</externallink>
    </channel>
 </channels>
 
