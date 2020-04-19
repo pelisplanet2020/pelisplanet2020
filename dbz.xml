@@ -2,67 +2,307 @@
 <channels>
 	<channel>
 		<name>Dragon Ball Z 1ª Temporada</name>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+		<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
 		<items>
 			<item>
-				<title>Capitulo 1</title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve>https://jetload.net/e/CeLNG5q0Wrou</urlsolve>
+				<title>Dragon Ball Z Cap 1x01</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve>https://jetload.net/p/CeLNG5q0Wrou</urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x02</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve>https://jetload.net/p/CMXnw5i5rNKK</urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x03</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x04</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve>https://jetload.net/p/pKMt4JiaQrmp</urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x05</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve>https://jetload.net/p/pW6DjG7dwkLM</urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x06</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve>https://jetload.net/p/YTuuJHyMvVAm</urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x07</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve>https://jetload.net/p/Ox7F4jWIC9Hd</urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x08</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x09</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x10</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title>Dragon Ball Z Cap 1x0</title>
+				<fanart>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</fanart>
+				<thumbnail>https://cdn-cms.bnea.io/sites/default/files/games/boxart/196040502174625.jpg</thumbnail>
 				<urlsolve></urlsolve>
 			</item>
 		</items>
