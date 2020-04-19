@@ -144,6 +144,13 @@
 			<thumbnail>http://imgfz.com/i/uN4gymc.jpeg</thumbnail>
 			<urlsolve>https://embed.drive.google.com/open?id=1_BBtA3cZZ2vvNi71yRioDdVrD3Jf3Y5M</urlsolve>
        		</item>
+	    
+	    	<item>
+			<title>Hora Punta 2</title>
+			<fanart>https://www.cinerama.es/wp-content/uploads/2001/10/cine-003135.jpg</fanart>
+			<thumbnail>https://www.cinerama.es/wp-content/uploads/2001/10/cine-003135.jpg</thumbnail>
+			<urlsolve>https://embed.drive.google.com/open?id=1gGpn65wR0f6ORKm8W9D6yBSjPOqOaJtD</urlsolve>
+       		</item>
        
        		<item>
 			<title>Gozilla el Rey de los Monstruos</title>
@@ -157,13 +164,6 @@
 			<fanart>https://pics.filmaffinity.com/Joker-790658206-mmed.jpg</fanart>
 			<thumbnail>https://pics.filmaffinity.com/Joker-790658206-mmed.jpg</thumbnail>
 			<urlsolve>https://embed.drive.google.com/open?id=1bu1SmblF9r6aE5ioqz4Pyt87Z24zx__9</urlsolve>
-       		</item>
-       
-       		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
        		</item>
        
        		<item>
@@ -396,10 +396,10 @@
        			</item>
 			
 			<item>
-				<title>Jumanji 1995 4K</title>
+				<title>Jumanji 1995 </title>
 				<fanart>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</fanart>
 				<thumbnail>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</thumbnail>
-				<urlsolve title="HD">https://embed.drive.google.com/open?id=14p44WPq0zMwPxJSLGic43Z13t6QRWwo-</urlsolve>
+				<urlsolve title="HD"></urlsolve>
        			</item>
        
        			<item>
@@ -414,6 +414,10 @@
 				<fanart>https://pics.filmaffinity.com/Jumanji_Bienvenidos_a_la_jungla-388589585-large.jpg</fanart>
 				<thumbnail>https://pics.filmaffinity.com/Jumanji_Bienvenidos_a_la_jungla-388589585-large.jpg</thumbnail>
 				<urlsolve>https://embed.drive.google.com/open?id=1nbZQzLuEY4j7fQ2SgAKdNWxUTetSSSWK</urlsolve>
+				<chennel>
+					<title>Jumanji Bienvenidos a la Jungla servidor 2</title>
+					<urlsolve>https://jetload.net/e/26864wXYB4Yu</urlsolve>
+				</channel>
        			</item>
        
        			<item>
@@ -506,6 +510,102 @@
 				<thumbnail></thumbnail>
 				<urlsolve></urlsolve>
        			</item>
+			<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+	    
+	    <item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+	    
+	    	<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+			<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+	    
+	    <item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+	    
+	    	<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
 		</items>
 	</channel>
 </channels>
