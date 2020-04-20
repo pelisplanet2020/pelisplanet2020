@@ -175,13 +175,20 @@
         			<fanart>http://imgfz.com/i/EdgLeB0.jpeg</fanart>
         			<thumbnail>http://imgfz.com/i/EdgLeB0.jpeg</thumbnail>
         			<urlsolve>http://fina.dyndns.tv/Peliculas/Guardianes%20de%20la%20galaxia.mkv</urlsolve>
-       		</item>
-        	<item>
-        		<title>Guardianes de la galaxia vol.2</title>
-        		<fanart>http://imgfz.com/i/glGCRhu.png</fanart>
-        		<thumbnail>http://imgfz.com/i/glGCRhu.png</thumbnail>
-        		<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
-       		</item>
+       			</item>
+        		<item>
+        			<title>Guardianes de la galaxia vol.2</title>
+        			<fanart>http://imgfz.com/i/glGCRhu.png</fanart>
+        			<thumbnail>http://imgfz.com/i/glGCRhu.png</thumbnail>
+        			<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
+       			</item>
+			<item>
+				<title>Spider-man lejos de casa</title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve>http://localhost:54321/streaming?t=1</urlsolve>
+			</item>
 		</items>
 	</channel>
 </channels>
