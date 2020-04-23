@@ -222,17 +222,18 @@
        		</item>
        
        		<item>
-			<title>Alpha opc 1</title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
+			<title>Alpha</title>
+			<fanart>http://imgfz.com/i/Cx9QZRm.jpeg</fanart>
+			<thumbnail>http://imgfz.com/i/Cx9QZRm.jpeg</thumbnail>
 			<urlsolve>https://gounlimited.to/embed-nf2y0p6xcrc2</urlsolve>
+			<urlsolve>https://embed.drive.google.com/open?id=1c7MrbaG0DYGe5D1fFAFMk6PMJ5x3V1LU</urlsolve>
        		</item>
        
        		<item>
-			<title>Alpha opc 2</title>
+			<title></title>
 			<fanart></fanart>
 			<thumbnail></thumbnail>
-			<urlsolve>https://gounlimited.to/embed-nf2y0p6xcrc2.html</urlsolve>
+			<urlsolve></urlsolve>
        		</item>
        
        		<item>
@@ -284,6 +285,39 @@
        		</item>
        
        		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+	    	<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+       
+       		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+       		</item>
+	    <item>
 			<title></title>
 			<fanart></fanart>
 			<thumbnail></thumbnail>
@@ -473,7 +507,7 @@
 				<title>Jumanji 1995 </title>
 				<fanart>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</fanart>
 				<thumbnail>https://pics.filmaffinity.com/Jumanji-685043467-large.jpg</thumbnail>
-				<urlsolve title="HD"></urlsolve>
+				<urlsolve></urlsolve>
        			</item>
 			
        			<item>
@@ -555,40 +589,42 @@
        			</item>
        
        			<item>
-				<title>fsdfsdf</title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
-				<urlsolve>https://embed.drive.google.com/open?id=1s1TWfReW4axIjlXhdcjdc3AuUZTVTK6_</urlsolve>
+				<title>angry-birds-1-la-pelicula.mp4</title>
+				<fanart>http://imgfz.com/i/5rI3ZD9.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/5rI3ZD9.jpeg</thumbnail>
+				<urlsolve>https://jetload.net/e/3WvuKcfcJcwa</urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1VMFeIj_93cXBvCBnoQl4zsio_twPMZm4</urlsolve>
        			</item>
        
        			<item>
-				<title></title>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<title>angry-birds-2-la-pelicula.mp4</title>
+				<fanart>http://imgfz.com/i/l8PicU7.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/l8PicU7.jpeg</thumbnail>
+				<urlsolve>https://jetload.net/e/uW50AFKUKVjE</urlsolve>
 				<urlsolve></urlsolve>
        			</item>
 			<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
+				<title>Ferdinand 2017</title>
+				<fanart>http://imgfz.com/i/lhHPM84.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/lhHPM84.jpeg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1LN-Oe8-dm37mqFruq3kwX60iD6Qr9FV2</urlsolve>
+       			</item>
+       
+       		<item>
+			<title>Espias con Disfraz</title>
+			<fanart>http://imgfz.com/i/5yvSzlu.jpeg</fanart>
+			<thumbnail>http://imgfz.com/i/5yvSzlu.jpeg</thumbnail>
+			<urlsolve>https://embed.drive.google.com/open?id=1ZZGlwrqH4FqvJk8_gq_rLLjV-SIhNXfB</urlsolve>
        		</item>
        
        		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
-			<urlsolve></urlsolve>
-       		</item>
-       
-       		<item>
-			<title></title>
-			<fanart></fanart>
-			<thumbnail></thumbnail>
+			<title>Toy Story 4</title>
+			<fanart>http://imgfz.com/i/Cd2gyiM.jpeg</fanart>
+			<thumbnail>http://imgfz.com/i/Cd2gyiM.jpeg</thumbnail>
 			<urlsolve></urlsolve>
        		</item>
 	    
-	    <item>
+	    	<item>
 			<title></title>
 			<fanart></fanart>
 			<thumbnail></thumbnail>
@@ -663,6 +699,33 @@
 			<thumbnail></thumbnail>
 			<urlsolve></urlsolve>
        		</item>
+		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+		</item>
+       
+		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+		</item>
+       
+		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+		</item>
+       
+		<item>
+			<title></title>
+			<fanart></fanart>
+			<thumbnail></thumbnail>
+			<urlsolve></urlsolve>
+		</item>
 		</items>
 	</channel>
 </channels>
