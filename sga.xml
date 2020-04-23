@@ -60,7 +60,7 @@
 				<info></info>
 				<fanart>http://imgfz.com/i/KLlmWDC.jpeg</fanart>
 				<thumbnail>http://imgfz.com/i/KLlmWDC.jpeg</thumbnail>
-				<urlsolve></urlsolve>
+				<urlsolve>https://embed.drive.google.com/open?id=1mKH1jksWVZY9ykCdMB16SKtut_S-FJ0Q</urlsolve>
 			</item>
 		</items>
 	</channel>
@@ -182,6 +182,7 @@
         			<thumbnail>http://imgfz.com/i/glGCRhu.png</thumbnail>
         			<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
        			</item>
+			
 		</items>
 	</channel>
 </channels>
