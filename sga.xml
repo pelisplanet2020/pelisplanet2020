@@ -152,15 +152,15 @@
 			<item>
 				<title>El Increible Hulk</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<fanart>https://i.pinimg.com/474x/b8/b5/62/b8b562d0360e7aad8a6f4e939f42df0f.jpg</fanart>
+				<thumbnail>https://i.pinimg.com/474x/b8/b5/62/b8b562d0360e7aad8a6f4e939f42df0f.jpg</thumbnail>
 				<urlsolve>https://jetload.net/e/74CyVOF9IxgH</urlsolve>
 			</item>
 			<item>
 				<title>Los Vengadores</title>
 				<info></info>
-				<fanart></fanart>
-				<thumbnail></thumbnail>
+				<fanart>http://imgfz.com/i/ojZJhVe.jpeg</fanart>
+				<thumbnail>http://imgfz.com/i/ojZJhVe.jpeg</thumbnail>
 				<urlsolve>https://embed.drive.google.com/open?id=1TlqIHaPvHhSVSrebSTzHRYlCe6cp9qx9</urlsolve>
 			</item>
 			
@@ -182,6 +182,69 @@
         			<thumbnail>http://imgfz.com/i/glGCRhu.png</thumbnail>
         			<urlsolve>http://80.211.107.82/movies3/Guardianes.De.La.Galaxia.Vol.2.2017.DVDRip.XviD.Spanish.avi/</urlsolve>
        			</item>
+			<item>
+				<title>The Amazing Spider-man 1</title>
+				<info></info>
+				<fanart>https://images-na.ssl-images-amazon.com/images/I/51SIHQuE3cL._SX342_.jpg</fanart>
+				<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51SIHQuE3cL._SX342_.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1s1TWfReW4axIjlXhdcjdc3AuUZTVTK6_</urlsolve>
+			</item>
+			<item>
+				<title>The Amazing Spider-man 2</title>
+				<info></info>
+				<fanart>https://pics.filmaffinity.com/The_Amazing_Spider_Man_2_El_poder_de_Electro-715327272-large.jpg</fanart>
+				<thumbnail>https://pics.filmaffinity.com/The_Amazing_Spider_Man_2_El_poder_de_Electro-715327272-large.jpg</thumbnail>
+				<urlsolve>https://embed.drive.google.com/open?id=1-RqEzi3CBd5HbU5eGP6YhSVyAOVwEcCQ</urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
+			<item>
+				<title></title>
+				<info></info>
+				<fanart></fanart>
+				<thumbnail></thumbnail>
+				<urlsolve></urlsolve>
+			</item>
 			
 		</items>
 	</channel>
