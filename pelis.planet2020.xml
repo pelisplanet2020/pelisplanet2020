@@ -7,7 +7,7 @@
 <genre>ONLINE</genre>
 <thumbnail>https://drive.google.com/open?id=1q7hntZirFf0VqFpKC-AOaQekkdogoQii</thumbnail>
 <fanart>https://i.ibb.co/2NH1rDq/PELIS-PLANET.jpg</fanart>
-<date>Abril del 2020</date>
+<date>MAYO del 2020</date>
 <credits>Gracias a plugin.video.Pelis.planet2020</credits>
 </channels_info>
 <channels>
@@ -16,7 +16,7 @@
 <channels>
     <channel>
         <info>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine y series.[/COLOR]</info>
-        <name>[COLOR blue]Pelis.planet2020[/COLOR] [COLOR gold]update:Abril de 2020[/COLOR]</name>
+        <name>[COLOR blue]Pelis.planet2020[/COLOR] [COLOR gold]update:MAYO de 2020[/COLOR]</name>
         <description>[COLOR gold]Pelis.planet2020 pretende ser un add-on en el que podras disfrutar del mejor cine y series.[/COLOR]</description>
         <thumbnail>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</thumbnail>
         <fanart>https://imgs1.e-droid.net/srv/imgs/cards/c954051_528655_main.png?v=1</fanart>
@@ -35,7 +35,7 @@
 <thumbnail>http://imgfz.com/i/6UWLHkD.png</thumbnail>
 <fanart>http://imgfz.com/i/6UWLHkD.pngD</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Content.xml</externallink>
+<externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Seccion.xml</externallink>
 </channel>
 </channels>
  
