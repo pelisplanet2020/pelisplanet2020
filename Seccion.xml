@@ -16,40 +16,51 @@
 <channels>
    <channel>
     <info>[COLOR red][/COLOR]</info>
-    <name>[COLOR orange]CINE DE ACCIÓN[/COLOR]</name>
-    <description></description>
+    <name>[COLOR orange]CINE DE ACCIÓN HD[/COLOR]</name>
+    <description>EL MEJOR CINE DE ACCIÓN ACTUAL Y ANTIGUO</description>
     <thumbnail>http://imgfz.com/i/KMl7anB.jpeg</thumbnail>
     <fanart>http://imgfz.com/i/KMl7anB.jpeg</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Acci%C3%B3n.xml</externallink>
    </channel>
 </channels>
 
 <channels>
    <channel>
     <info>[COLOR red][/COLOR]</info>
-    <name>[COLOR red]CINE DE COMEDIA[/COLOR]</name>
-    <description></description>
+    <name>[COLOR red]CINE INFANTIL HD[/COLOR]</name>
+    <description>EL MEJOR CINE INFANTIL ACTUAL Y ANTIGUO</description>
+    <thumbnail>http://imgfz.com/i/bcqnH0v.jpeg</thumbnail>
+    <fanart>http://imgfz.com/i/bcqnH0v.jpeg</fanart>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Infantil.xml</externallink>
+   </channel>
+</channels>
+
+<channels>
+   <channel>
+    <info>[COLOR red][/COLOR]</info>
+    <name>[COLOR red]CINE DE COMEDIA HD[/COLOR]</name>
+    <description>EL MEJOR CINE DE COMEDIA ACTUAL Y ANTIGUO</description>
     <thumbnail>http://imgfz.com/i/j3ESb6l.png</thumbnail>
     <fanart>http://imgfz.com/i/j3ESb6l.png</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/Comedia.xml</externallink>
    </channel>
 </channels>
 
 <channels>
    <channel>
     <info>[COLOR red][/COLOR]</info>
-    <name>[COLOR green]CINE CIENCIA FICCIÓN[/COLOR]</name>
-    <description></description>
+    <name>[COLOR green]CINE CIENCIA FICCIÓN HD[/COLOR]</name>
+    <description>EL MEJOR CINE DE CIENCIA FICCIÓN ACTUAL Y ANTIGUO</description>
     <thumbnail>http://imgfz.com/i/ZdPuXYO.jpeg</thumbnail>
     <fanart>http://imgfz.com/i/ZdPuXYO.jpeg</fanart>
-    <externallink></externallink>
+    <externallink>https://raw.githubusercontent.com/pelisplanet2020/pelisplanet2020/master/C.Ficci%C3%B3n.xml</externallink>
    </channel>
 </channels>
 
 <channels>
    <channel>
     <info>[COLOR red][/COLOR]</info>
-    <name>[COLOR darkred]CINE TERROR[/COLOR]</name>
+    <name>[COLOR darkred]CINE TERROR HD[/COLOR]</name>
     <description></description>
     <thumbnail>http://imgfz.com/i/0QqRdPb.jpeg</thumbnail>
     <fanart>http://imgfz.com/i/0QqRdPb.jpeg</fanart>
