@@ -49,18 +49,18 @@
 				<urlsolve></urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>El Increible Hulk</title>
 				<fanart></fanart>
 				<thumbnail></thumbnail>
 				<download></download>
-				<urlsolve></urlsolve>
+				<urlsolve>http://192.168.1.40:9000/disk/DLNA-PNMKV-OP01-FLAGS01700000/O0$3$27I3082.mkv</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Capitan America</title>
 				<fanart></fanart>
 				<thumbnail></thumbnail>
 				<download></download>
-				<urlsolve></urlsolve>
+				<urlsolve>http://192.168.1.40:9000/disk/DLNA-PNMKV-OP01-FLAGS01700000/O0$3$27I2826.mkv</urlsolve>
 			</item>
 			<item>
 				<title>Venom HD</title>
