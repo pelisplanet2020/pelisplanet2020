@@ -72,7 +72,7 @@
 				<title>Los Vengadores</title>
 				<fanart></fanart>
 				<thumbnail></thumbnail>
-				<urlsolve>http://192.168.1.40:9000/disk/DLNA-PNMKV-OP01-FLAGS01700000/O0$3$27I1802.mkv</urlsolve>
+				<urlsolve>http://192.168.1.40:9000/disk/DLNA-PNMKV-OP01-FLAGS01700000/O0$3$27I779.mkv</urlsolve>
 			</item>
 			<item>
 				<title>Harry Potter la Piedra Filosofal</title>
@@ -103,11 +103,11 @@
 				<urlsolve>https://storage.googleapis.com/omega-pivot-269518.appspot.com/cv0330373es.mp4</urlsolve>
 			</item>
 			<item>
-				<title></title>
+				<title>Han Solo</title>
 				<fanart></fanart>
 				<thumbnail></thumbnail>
 				<download></download>
-				<urlsolve></urlsolve>
+				<urlsolve>http://192.168.1.40:9000/disk/DLNA-PNAVC_MP4_HP_HD-OP01-FLAGS01700000/O0$3$27I267.mp4</urlsolve>
 			</item>
 			<item>
 				<title></title>
